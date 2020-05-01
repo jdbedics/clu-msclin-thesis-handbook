@@ -1,5 +1,7 @@
 book_filename: "CLU Thesis Handbook"
-language:
-  ui:
-    chapter_name: "Section "
-delete_merged_file: true
+chapter_name: "Section "
+repo: https://github.com/jdbedics/clu-mscp-thesis-handbook
+output_dir: docs
+rmd_files: ["index.Rmd", "01-intro.Rmd", "02-literature.Rmd", "03-method.Rmd", "04-application.Rmd", "05-summary.Rmd", "06-references.Rmd"]
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
