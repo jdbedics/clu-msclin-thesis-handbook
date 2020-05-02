@@ -8,9 +8,12 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: jdbedics/clu-msclin-thesis-handbook
+github-repo: jdbedics/thesishandbook
 description: "Guidelines for completion of the thesis for the MS in Clinical Psychology Program at CLU."
 ---
 
-# Prerequisites
+# The goal of the thesis
 
+The thesis allows students to develop their own interests into a research project with the support of CLU faculty.
+
+## The thesis is optional

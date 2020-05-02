@@ -2,6 +2,6 @@ book_filename: "thesishandbook"
 chapter_name: "Section "
 repo: https://github.com/jdbedics/thesishandbook
 output_dir: docs
-rmd_files: ["index.Rmd", "01-intro.Rmd", "02-literature.Rmd", "03-method.Rmd", "04-application.Rmd", "05-summary.Rmd", "06-references.Rmd"]
+rmd_files: ["index.Rmd", "01-checklist.Rmd", "02-literature.Rmd", "03-method.Rmd", "04-application.Rmd", "05-summary.Rmd", "06-references.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
