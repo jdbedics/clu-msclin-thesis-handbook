@@ -12,8 +12,8 @@ github-repo: jdbedics/thesishandbook
 description: "Guidelines for completion of the thesis for the MS in Clinical Psychology Program at CLU."
 ---
 
-# The goal of the thesis
+# The MS Clinical Psychology Handbook
 
-The thesis allows students to develop their own interests into a research project with the support of CLU faculty.
+The goal of this handbook is to provide students with the information needed to successfully complete the master's thesis in MS in Clinical Psychology Program (MSCP) at California Lutheran University.  The manual should be understood as a supplement to the broader policies and procedures defined by the program and university. 
 
-## The thesis is optional
+## 
