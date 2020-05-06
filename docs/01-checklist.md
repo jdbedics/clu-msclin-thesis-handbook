@@ -1,7 +1,7 @@
 # Thesis Checklist
 
 
-Instruction: Students are required to meet with the Dr. Bedics at the end of every semester to review the required material for that semester.  Students who miss any of the following steps will be automatically removed from the thesis option and required to complete the comprehensive exam.  The student can, however, complete a research project but not for the partial fulfillment of the degree (i.e., credit).  
+Instruction: Students who wish to pursue the thesis option are required to meet with the Dr. Bedics at the end of every semester to review the required material for that semester.  Students who miss any of the following steps will be automatically removed from the thesis option and required to complete the comprehensive exam.  The student can, however, complete a research project but not for the partial fulfillment of the degree (i.e., credit).  
 
 
 || Task           | Date Due | Year | Finished | 

@@ -1,7 +1,7 @@
 --- 
 title: "CLU MS Clinical Psychology Thesis Handbook"
-author: "Jamie Bedics"
-date: "2020-05-04"
+author: "Jamie Bedics, PhD, ABPP"
+date: "2020-05-05"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -12,8 +12,22 @@ github-repo: jdbedics/thesishandbook
 description: "Guidelines for completion of the thesis for the MS in Clinical Psychology Program at CLU."
 ---
 
-# The MS Clinical Psychology Handbook
+# Goal
 
-The goal of this handbook is to provide students with the information needed to successfully complete the master's thesis in MS in Clinical Psychology Program (MSCP) at California Lutheran University.  The manual should be understood as a supplement to the broader policies and procedures defined by the program and university. 
+The goal of this handbook is to provide students with the information needed to successfully complete the master's thesis in the MS in Clinical Psychology Program (MSCP) at California Lutheran University (CLU).  The manual should be understood as a supplement to the broader policies and procedures defined by the program and university. 
 
-## 
+
+## Comprehensive Exams or Thesis?
+
+The comprehensive exam is a closed book/note essay test that covers all the material studied during the course of the MSCP program.  The test is offered at the end of the spring semester during the second year. The exam consists of a morning session (9AM-Noon) and an afternoon session (1PM-4PM).  During each session, students choose to respond to 3 of 5 essay style questions.  
+
+Upon enrolling the MSCP program, students are expected to complete the comprehensive exam in order to complete the degree.  Students can, however, choose to complete a thesis project which would replace the requirement of the comprehensive exam.  Students must select the thesis option  
+
+## Thesis Project
+
+Students who choose to work on a thesis must follow the procedures and guidelines in this manual in order to stay in the thesis track.  Students who fail to follow any of these steps will be moved back to the comprehensive exam option.  Students can, however, continue to work on their research project as an _independent project_ and not for partial fulfillment of the requirements of the program (i.e., credit).
+
+**Bottom line**: The main benefit of the thesis project is that it provides students with the opportunity to conduct their own independent research project with the support of faculty.  Whether you choose to do this as a _thesis_ or an _independent project_, in reality, matters litle to future doctoral program.  Instead, futural advisors will be looking at the **quality** of work regardless of the status of the project. 
+
+
+
