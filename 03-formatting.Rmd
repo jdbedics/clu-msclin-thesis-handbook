@@ -1,3 +1,25 @@
 # Formatting
 
 
+The thesis paper is completed in a manner consistent with the [Publication Manual of the APA (7th Edition)](https://www.amazon.com/s?k=apa+publication+manual+7th+edition&crid=7T10VJ2PYQZH&sprefix=apa+pu%2Caps%2C261&ref=nb_sb_ss_i_1_6). Specifically, the following sections should follow, exactly, the guidelines defined by the 7th Edition:
+
+  * Abstract
+  * Introduction
+  * Method
+  * Results
+  * Discussion
+  * Tables
+  * Figures
+  * Appendices
+  
+There are several sections that **do not** follow the 7th Edition of the Publication Manual:
+
+  * Title Page
+  * Table of Contents
+
+For examples of these, please see the Thesis Materials section of the MSCP homepage in Blackboard.
+
+
+
+
+
