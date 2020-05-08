@@ -1,7 +1,9 @@
 # Thesis Checklist
 
 
-Instruction: Students who wish to pursue the thesis option are required to meet with the Dr. Bedics at the end of every semester to review the required material for that semester.  Students who miss any of the following steps will be automatically removed from the thesis option and required to complete the comprehensive exam.  The student can, however, complete a research project but not for the partial fulfillment of the degree (i.e., credit).  
+Instruction: Students who wish to pursue the thesis option are required to meet with Dr. Bedics at the end of every semester to review the required steps required to complete the thesis project for that semester.  
+
+Students who miss any of the following steps are automatically removed from the thesis option and required to complete the comprehensive exam.  The student can, however, complete a research project but not for the partial fulfillment of the degree (i.e., credit).  
 
 
 || Task           | Date Due | Year | Finished | 
@@ -19,7 +21,7 @@ Instruction: Students who wish to pursue the thesis option are required to meet 
 |11.| IRB Submitted | November 1st | Second Year | [_____] |
 |12.| Academic Good Standing | December 15th | Second Year | [_____]  |
 |13.| Enroll in PSYC 566 | December 15th | Second Year | [_____]  |
-|14.| Draft to Dr. Bedics | May 1st  | Second Year | [_____] |
+|14.| Complete Draft to Dr. Bedics | May 1st  | Second Year | [_____] |
 |15.| Committee Approval of Final | May 10th  | Second Year |  [__] Chair<br/>[__] Reader |
 |16.| OSF Approval | May 1st | Second Year  | [_____]  |
 |17. | Thesis Commons | May 15th | Second Year | [_____]  |
@@ -27,16 +29,20 @@ Instruction: Students who wish to pursue the thesis option are required to meet 
 |19.| GitHub Blog | Optional |Second Year | [_____]  |
 |20.| Shiny App | Optional |Second Year | [_____]  |
 
-Several, but not all, of the above tasks are detailed more fully in the following sections.
 
-
-## Thesis Topic Approval - "Defining the Problem Area" (#1)
+## Thesis Topic - "Defining the Problem Area"
 
 The general thesis topic is required to be selected during the beginning of the first semester of the first year.  The thesis topic, does not, however, determine the hypotheses, methodology or general approach taken by the student to understand the problem (e.g. experimental, quasi-experimental, meta-analytic methods). 
 
-## Literature Review - "Understanding the Problem" (#2, #5)
+**Due**: October 1st, First Year
 
-The development of the literature review on the selected topic begins during the fall of the first during PSYC 564 Advanced Research Methods.  The literature review will become the "introduction" section of the final thesis project.  The literature review shows the student's mastery of the literature.  More importantly, the literature review shows the students understanding of the *problem* to be addressed and answered by the methodology.  The literature is to be worked on throughout the duration of the program.  
+## Literature Review - "Understanding the Problem"
+
+The development of the literature review begins during the fall of the first during PSYC 564 Advanced Research Methods.  The literature review will become the "introduction" section of the final thesis project.  The literature review shows the student's mastery of the literature surrounding the *problem* to be addressed by the thesis.  The typical length of a literature review is between 20-40 pages longs but there is no maximum length.
+
+The development of the literture review is ongoing throughout the two years until completion.  The first draft is completed during the PSYC 564 during the fall of the first year.  Revisions are made during the spring of the first year.  
+
+**Due**: December 15th, First year; May 15th, end of first year; 
 
 ## Method Section - "Solving the Problem" (#4)
 

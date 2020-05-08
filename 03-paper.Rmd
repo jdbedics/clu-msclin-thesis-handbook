@@ -11,6 +11,7 @@ All sections of the paper should in APA format.  Sections in APA format include:
   * References
   * Tables
   * Figures
+  * Appendicies
   
 
 The only exception to APA formatting is the signature page and table of contents.  See the CLU Google Drive for an example of each.

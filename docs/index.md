@@ -1,7 +1,7 @@
 --- 
 title: "CLU MS Clinical Psychology Thesis Handbook"
 author: "Jamie Bedics, PhD, ABPP"
-date: "2020-05-05"
+date: "2020-05-07"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
