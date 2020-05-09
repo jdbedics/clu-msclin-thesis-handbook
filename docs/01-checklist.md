@@ -1,7 +1,8 @@
 # Thesis Checklist
 
 
-Students who wish to pursue the thesis option are required to meet with Dr. Bedics at the end of every semester in order to review their progress.  Students are expeced to make adequate progress according to the timeline below. Students who miss any of the following steps can be removed from the thesis option and will be required to complete the comprehensive exam.  
+Students who wish to pursue the thesis option are required to meet with Dr. Bedics at the end of every semester in order to review their progress according to the following timeline. 
+Students who miss any of the following steps are removed from the thesis option and will be required to complete the comprehensive exam.  
 
 
 || Task           | Date Due | Year | Finished | 
