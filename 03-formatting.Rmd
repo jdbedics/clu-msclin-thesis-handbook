@@ -23,13 +23,27 @@ There are several sections that **do not** follow the 7th Edition of the Publica
   * Title Page
   * Table of Contents
 
-For examples of these, please see the Thesis Materials section of the MSCP homepage in Blackboard.
+For examples of these, please see the Thesis Materials section of the MSCP homepage in Blackboard.  General guidelines can be followed below:
 
+___
+Title Page Guidelines
 
 ```{r, echo=FALSE}
 knitr::include_graphics("images/titlepage.png")
 ```
 
+___
+Signature Page
 
+```{r, echo=FALSE}
+knitr::include_graphics("images/signaturepage.png")
+```
+
+___
+Table of Contents
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/tablecontents.png")
+```
 
 

@@ -4,10 +4,7 @@
 <img src="images/apamanual.png" width="170" />
 
 
- 
-
-
-The thesis paper is completed in a manner consistent with the [Publication Manual of the APA (7th Edition)](https://www.amazon.com/s?k=apa+publication+manual+7th+edition&crid=7T10VJ2PYQZH&sprefix=apa+pu%2Caps%2C261&ref=nb_sb_ss_i_1_6). Specifically, the following sections should follow, exactly, the guidelines defined by the 7th Edition:
+ The thesis paper is completed in a manner consistent with the [Publication Manual of the APA (7th Edition)](https://www.amazon.com/s?k=apa+publication+manual+7th+edition&crid=7T10VJ2PYQZH&sprefix=apa+pu%2Caps%2C261&ref=nb_sb_ss_i_1_6). Specifically, the following sections should follow, exactly, the guidelines defined by the 7th Edition:
 
   * Abstract
   * Introduction
@@ -24,8 +21,12 @@ There are several sections that **do not** follow the 7th Edition of the Publica
   * Title Page
   * Table of Contents
 
-For examples of these, please see the Thesis Materials section of the MSCP homepage in Blackboard.
+For examples of these, please see the Thesis Materials section of the MSCP homepage in Blackboard.  General guidelines can be followed below:
 
+___
+
+
+<img src="images/titlepage.png" width="480" />
 
 
 
