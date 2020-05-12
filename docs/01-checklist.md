@@ -43,6 +43,17 @@ The general thesis topic is required to be selected during the beginning of the 
 ___
 
 
+## Open Science Framework
+
+**Creating a transparent and reproducible workflow**
+
+[OSF](https://osf.io/) is repository that allows you to transparenlty share your work with the larger scientific community. During the course of the program, you will be using the OSF to organize your thesis and other independent research projects.  Instructions for setting up an OSF project can be found [here](https://speakerdeck.com/jdbedics/osf-setup-and-class-project-introduction) and will be reviewed with Dr. Bedics at your first advising meeting. 
+
+**Due**: October 1st, First Year
+
+___
+
+
 ## Literature Review
 
 ___
