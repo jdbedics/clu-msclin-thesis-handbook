@@ -21,7 +21,7 @@ The goal of this handbook is to provide students with the information needed to 
 
 ___
 
-## Scholary Reearch
+## Scholarly Research
 
 ___
 
@@ -33,13 +33,12 @@ Scholarly research requires the skills of inquiry which must be demonstrated by 
   4. work with faculty or other professionals on a research project;
   5. use scholarly writing techniques.
 
-Research may be a thesis or an independent research project. While both are important contributions to the body of knowledge in a discipline, they have different purposes as described in the followign sections.
+Research may be a thesis or an independent research project. While both are important contributions to the body of knowledge in a discipline, they have different purposes as described in the following sections.
 
 ___
 
 ## Comprehensive Exam
 
-___
 
 By default, students entering the MSCP program are required to complete the comprehensive exam.  Students can, however, choose to _opt out_ of the comprehensive exam and instead complete a thesis.
 
@@ -63,7 +62,7 @@ ___
 The thesis is the result of an original empirical investigation that creates new knowledge within a discipline. It solves a problem related to lack of knowledge and is generally composed of the following elements:
 
   1. identification of a problem caused by lack of knowledge;
-  2. background and literature review of existing information about theproblem; 
+  2. background and literature review of existing information about the problem; 
   3. methods to be used for obtaining the needed knowledge;
   4. resulting new knowledge;
   5. interpretation of the new knowledge.
@@ -72,7 +71,7 @@ The thesis is the result of an original empirical investigation that creates new
 **Tasks:**
 
   * Students complete all the requirements outline in this manual
-  * Students enroll in PSYC 565, Research Seminar, during the fall of their second year
+  * Students enroll in PSYC 565, Research Practicum, during the fall of their second year
   * Students enroll in PSYC 566, Thesis, during the spring of their second year
 
 ___
@@ -101,24 +100,24 @@ ___
   * The exam is done in a day.
   * Questions that are not adequately answered can be remitted before "failing."
   * The pressure to meet thesis requirements, every semester, is removed.
-  * Students can still complete an **independent research project (see below)** which would include the first three *thesis pros*
-  * Students choose a 3-credit elective during their second year
-  * The entire program is 37-units versus 40-units with the thesis option
+  * Students can still complete an **research project** (see next section) which would allow the first three *thesis pros* to be achieved.
+  * Students choose a 3-credit elective during their second year.
+  * The entire program is 37-units versus 40-units with the thesis option.
   
 *Comps "Cons"*
  
-  * A 6-hour, closed book, essay test can be stressful and exhausting
-  * The independent research project could not be as structured as the thesis option.
+  * A 6-hour, closed book, essay test can be stressful and exhausting.
+  * The research project could not be as structured as the thesis option.
   
 ___
 
 ## Research Project Option
 
-**Independent Research Project + Comprehensive Exam** 
+**Research Project + Comprehensive Exam** 
 
 Students can complete their own independent research project, identical to the thesis, but without the coursework (PSYC 565 & PSCY 566).  There are two scenarios where this can occur:
 
-  1. A student can decide, from the beginning of the program, that they want to avoid the pressure and extra work of the thesis requirements but use the program to work on an independent research project.  They could take PSYC 565 in the fall of their second year but will not take PSYC 566 during the spring.
+  1. A student can decide, from the beginning of the program, that they want to avoid the pressure and extra work of the thesis requirements but use the program to work on an research project.  They could take PSYC 565 in the fall of their second year but will not take PSYC 566 during the spring.
   2. Students might attempt the thesis but, for a variety of reasons, fall behind and be removed from or quite the thesis track.
     
 In both of these scenarios, students are required to take the comprehensive exam and pay the comprehensive exam fee, in order to graduate.  The student can, however, continue to work on their independent research project but not for credit.
