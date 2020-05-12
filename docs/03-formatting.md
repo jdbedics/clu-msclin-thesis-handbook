@@ -1,7 +1,7 @@
 # Formatting
 
 
-<img src="images/apamanual.png" width="170" />
+<img src="images/apamanual.png" width="340" />
 
 
  The thesis paper is completed in a manner consistent with the [Publication Manual of the APA (7th Edition)](https://www.amazon.com/s?k=apa+publication+manual+7th+edition&crid=7T10VJ2PYQZH&sprefix=apa+pu%2Caps%2C261&ref=nb_sb_ss_i_1_6). Specifically, the following sections should follow, exactly, the guidelines defined by the 7th Edition:
@@ -27,20 +27,20 @@ ___
 
 ## Title Page Guidelines
 
-<img src="images/titlepage.png" width="480" />
+<img src="images/titlepage.png" width="960" />
 
 
 
 ## Signature Page Guidelines
 
-<img src="images/signaturepage.png" width="502" />
+<img src="images/signaturepage.png" width="1004" />
 
 
 
 ## Table of Contents Guidelines
 
 
-<img src="images/tablecontents.png" width="525" />
+<img src="images/tablecontents.png" width="1050" />
 
 ## Final Ordering
 
