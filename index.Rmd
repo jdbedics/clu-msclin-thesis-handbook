@@ -15,9 +15,15 @@ description: "Guidelines for completion of the thesis for the MS in Clinical Psy
 
 # Goal of the Handbook
 
+___
+
 The goal of this handbook is to provide students with the information needed to successfully complete the master's thesis in the MS in Clinical Psychology Program (MSCP) at California Lutheran University (CLU).  The manual should be understood as a supplement to the broader policies and procedures defined by the program and university. 
 
+___
+
 ## Scholary Reearch
+
+___
 
 Scholarly research requires the skills of inquiry which must be demonstrated by all students. As a participant in research activities at CLU, the University expects you to develop the abilities to:
 
@@ -29,8 +35,11 @@ Scholarly research requires the skills of inquiry which must be demonstrated by 
 
 Research may be a thesis or an independent research project. While both are important contributions to the body of knowledge in a discipline, they have different purposes as described in the followign sections.
 
+___
 
 ## Comprehensive Exam
+
+___
 
 By default, students entering the MSCP program are required to complete the comprehensive exam.  Students can, however, choose to _opt out_ of the comprehensive exam and instead complete a thesis.
 
