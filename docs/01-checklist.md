@@ -43,7 +43,7 @@ The development of the literature review begins during the fall of the first dur
 
 ## Method Section - "Solving the Problem"
 
-The method sections defines the procedures of the thesis project. The method section consists of the participant selection, selection of methods of measurements or materials, and the procedure.  The method section can be worked on in PSYC 552 Psychometrics during spring of the first 
+The method sections defines the procedures of the thesis project. The method section consists of the participant selection, selection of methods of measurements or materials, and the procedure.  The method section can be worked on in PSYC 552 Psychometrics during spring of the first year. 
 
 **Due**: May 1st, First Year (First Draft)
 

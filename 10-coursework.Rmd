@@ -12,5 +12,5 @@ There are, however, specific courses where the thesis is explicitly incorporated
 | 564 | Adv. Research Methods | Fall | One | Literature Review |
 | 552 | Psychometrics | Spring | One | Method |
 | 521 | Ethics | Summer | One | Pre-Registration |
-| 565 | Research Practicum | Fall | Two | IRB |
+| 565 | Research Practicum | Fall | Two | IRB, Intro, Method |
 | 566 | Thesis| Spring | Two | Complete Draft due May 1st |
