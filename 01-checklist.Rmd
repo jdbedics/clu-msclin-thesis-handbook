@@ -87,7 +87,9 @@ ___
 
 ___
 
-Committee members are faculty or experts in the field that support the students work on the thesis. Students work with the program director to find the most appropriate committee members to support their research project.  See the Committee section of this handbook.
+Committee members are faculty or experts in the field that support the students work on the thesis. Students work with the program director to find the most appropriate committee members to support their research project.  
+
+Please see the **Thesis Committee** section of this handbook.
   
 **Due**: June 30th, Summer after First Year
 

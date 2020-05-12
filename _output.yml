@@ -2,6 +2,7 @@ bookdown::gitbook:
   css: style.css
   split_by: section
   config:
+    sharing: null
     toc:
       before: |
         <center><li><img src="https://raw.githubusercontent.com/jdbedics/thesishandbook/master/images/GumbyRound.png" width="60%" height="60%" </img></li></center>
