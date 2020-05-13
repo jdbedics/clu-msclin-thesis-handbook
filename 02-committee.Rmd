@@ -1,23 +1,6 @@
 # Thesis Committee
 
-**Committee Membership**
-
-The committee is composed of a Chair and a Reader.  Their roles are described below as is the process for finding and selecting committee members. 
-
-___
-
-**Committee Chair**
-
-The chair must have *content knowledge* of the area under investigation for the project or thesis. For example, if the thesis is on schizophrenia then the chair must have extensive knowledge of schizophrenia.  The chair must be a part-time or full-time faculty member at CLU. The chair must be chosen with the approval of the Program Director, Dr. Bedics.  There can be exceptions to the above criteria with the approval of Dr. Bedics. 
-
-**Committee Reader**
-
-The reader must have either content knowledge or *methodology knowledge* of the area under investigation for the project or thesis. For example, if the thesis is on schizophrenia and utilizes an experimental design the the reader can either have knowledge of schizophrenia **or** knowledge of the experimental methods proposed.  The reader can be a part-time or full-time faculty member at CLU or a professional in the community with at least a Master’s degree that as the aforementioned expertise. The reader must be chosen with approval of program advisor and thesis Committee Chair. Exceptions to the above criteria can be made pending approval by Dr. Bedics. 
-
-___
-
-
-## Finding a Committee
+**Finding a Committee**
 
 For many faculty, being on a thesis committee is a lot of work and they are often reluctant to join a committee. Consequently, how you approach faculty is very critical to your success. Dr. Bedics will walk you through much of the process. 
 

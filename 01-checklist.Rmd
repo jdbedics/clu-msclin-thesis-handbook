@@ -1,8 +1,7 @@
 # Thesis Checklist
 
 
-Students who wish to pursue the thesis option are required to meet with Dr. Bedics at the end of every semester in order to review their progress according to the following timeline. 
-Students who miss any of the following steps are removed from the thesis option and will be required to complete the comprehensive exam.  
+Students who wish to pursue the thesis option are required to meet with Dr. Bedics at the end of every semester in order to review their progress according to the following timeline. Students who miss any of the following steps are removed from the thesis option and will be required to complete the comprehensive exam in order to graduate.  
 
 
 || Task           | Date Due | Year | Finished | 
@@ -36,9 +35,9 @@ ___
 
 **Defining the Problem Area**
 
-The general thesis topic is required to be selected during the beginning of the first semester of the first year.  The thesis topic, does not, however, determine the hypotheses, methodology or general approach taken by the student to understand the problem (e.g. experimental, quasi-experimental, meta-analytic methods). It would be premature for a student to define a hypothesis in the first year when their understanding of the topic area is just beginning.  Hypotheses are typically developed after the first year of study. 
+The general thesis topic is required to be selected during the beginning of the first semester of the first year.  The thesis topic, does not, however, determine the hypotheses, methodology or general approach taken by the student to understand the problem (e.g. experimental, quasi-experimental, meta-analytic methods). It would be premature for any student to attempt to define a hypothesis in the first year when their understanding of the topic area is limited and not justified by a thorough literature review.  Hypotheses are typically developed after the first year of study. 
 
-**Due**: October 1st, First Year
+**Due**: October 1st, first year.
 
 ___
 
@@ -47,9 +46,11 @@ ___
 
 **Creating a transparent and reproducible workflow**
 
-[OSF](https://osf.io/) is repository that allows you to transparenlty share your work with the larger scientific community. During the course of the program, you will be using the OSF to organize your thesis and other independent research projects.  Instructions for setting up an OSF project can be found [here](https://speakerdeck.com/jdbedics/osf-setup-and-class-project-introduction) and will be reviewed with Dr. Bedics at your first advising meeting. 
+[OSF](https://osf.io/) is repository that allows you to transparently share your work with the larger scientific community. During the course of the program, you will be using the OSF to organize your thesis and other independent research projects.  Instructions for setting up an OSF project can be found [here](https://speakerdeck.com/jdbedics/osf-setup-and-class-project-introduction) and will be reviewed with Dr. Bedics at your first advising meeting. 
 
-**Due**: October 1st, First Year
+In addition to organizing your workflow, OSF allows students to showcase their work to their peers and potential employers and doctoral advisors.  Students in the thesis option are required to use OSF and it is strongly recommended for students completing the research project. 
+
+**Due**: October 1st, first year.
 
 ___
 
@@ -62,11 +63,13 @@ ___
 
 The development of the literature review begins during the fall of the first year during PSYC 564 Advanced Research Methods.  The literature review will become the "introduction" section of the final thesis paper.  The literature review demonstrates the student's mastery of the literature surrounding the *problem* to be addressed by the thesis.  
 
-Initial drafts, such as that from PSYC 564, are 10-12 pages in length.  The development of the literature review is, however, ongoing throughout the two years of the program until the final draft is submitted on May 1st of the second year. 
+Initial drafts, such as that from PSYC 564, are 10-12 pages in length.  The development of the literature review is, however, ongoing throughout the two years of the program until the final draft is submitted on May 1st of the second year. The typical length of a *complete* literature review is between **20-40 pages** long but there is no maximum length. 
 
-The typical length of a *complete* literature review is between **20-40 pages** long but there is no maximum length. 
-
-**Due**: December 15th, First year (First Major Draft); May 15th, end of first year (Second Major Draft); May 1st, end of second year (Final Draft)
+**Due**: 
+  
+  1. December 15th, first year (First Major Draft);
+  2. May 15th, end of first year (Second Major Draft); 
+  3. May 1st, end of second year (Final Draft).
 
 ___
 
@@ -79,7 +82,10 @@ ___
 
 The method sections defines the procedures of the thesis. The method section consists of the participant selection, selection of methods of measurements or materials, and the procedure.  The method section can be worked on in PSYC 552 Psychometrics during spring of the first year and is finalized during PSYC 565 in the fall of the second year.
 
-**Due**: May 1st, First Year (First Draft)
+**Due**: 
+
+  1. May 1st, first year (First Draft);
+  2. December 15th, second year (Second Draft)
 
 ___
 
@@ -87,9 +93,21 @@ ___
 
 ___
 
-Committee members are faculty or experts in the field that support the students work on the thesis. Students work with the program director to find the most appropriate committee members to support their research project.  
+Committee members are faculty or experts in the field that support the students work on the thesis. Students work with the program director to find the most appropriate committee members to support their research project.  The committee is composed of a Chair and a Reader.  Their roles are described below as is the process for finding and selecting committee members. 
 
-Please see the **Thesis Committee** section of this handbook.
+___
+
+**Committee Chair**
+
+The chair must have *content knowledge* of the area under investigation for the project or thesis. For example, if the thesis is on schizophrenia then the chair must have extensive knowledge of schizophrenia.  The chair must be a part-time or full-time faculty member at CLU. The chair must be chosen with the approval of the Program Director, Dr. Bedics.  There can be exceptions to the above criteria with the approval of Dr. Bedics. 
+
+**Committee Reader**
+
+The reader must have either content knowledge or *methodology knowledge* of the area under investigation for the project or thesis. For example, if the thesis is on schizophrenia and utilizes an experimental design the the reader can either have knowledge of schizophrenia **or** knowledge of the experimental methods proposed.  The reader can be a part-time or full-time faculty member at CLU or a professional in the community with at least a Master’s degree that as the aforementioned expertise. The reader must be chosen with approval of program advisor and thesis Committee Chair. Exceptions to the above criteria can be made pending approval by Dr. Bedics. 
+
+___
+
+Please see the **Thesis Committee** section of this handbook for information on how to acquire a committee. 
   
 **Due**: June 30th, Summer after First Year
 
