@@ -46,7 +46,7 @@ ___
 
 **Creating a transparent and reproducible workflow**
 
-<img src="images/osf.png" width="290" />
+<img src="images/osf.png" width="145" />
 
 
 [OSF](https://osf.io/) is a repository that allows researchers to transparently share their work with the larger scientific community. During the course of the program, students use OSF to organize their thesis and other independent research projects.  Instructions for setting up an OSF project can be found [here](https://speakerdeck.com/jdbedics/osf-setup-and-class-project-introduction) and will be reviewed with Dr. Bedics at students' first advising meeting. 

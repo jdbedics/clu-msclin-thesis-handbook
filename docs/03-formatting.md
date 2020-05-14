@@ -19,9 +19,11 @@
 There are several sections that **do not** follow the 7th Edition of the Publication Manual:
 
   * Title Page
+  * Signature Page
   * Table of Contents
+  
 
-For examples of these, please see the Thesis Materials section of the MSCP homepage in Blackboard.  General guidelines can be followed below:
+For examples of the sections that do not follow APA style please see the Thesis Materials section of the MSCP homepage in Blackboard and the examples in the following sections of this manual.
 
 ___
 
@@ -42,7 +44,7 @@ ___
 
 <img src="images/tablecontents.png" width="1050" />
 
-## Final Ordering
+## Final Ordering of Thesis
 
 **1. Title Page (according to CLU format and not APA)**
 
@@ -59,19 +61,19 @@ ___
 
 **3. Dedication (optional)**
 
-This optional page contains a brief dedication to the individual(s) whom the author wishes to honor. If included, thispageisnumberedaspage“ii” (lowercaseRomannumeral).
+This optional page contains a brief dedication to the individual(s) whom the author wishes to honor. If included, this page is numbered as page “ii” (lower case Roman numeral).
 
 ___
 
 
 **4. Acknowledgements (optional)**
 
-This optional page lists persons and/ or institutions whom the author wishes to thank for their assistance in completing the thesis or project. Such assistance can be provision of personal, financial, or moral support, or access to data sets or subject populations. A brief statement as to the type of assistance provided may follow each person or institution named. If included, this page continues the lower case R oman numeral sequence begun above.
+This optional page lists persons and/ or institutions whom the author wishes to thank for their assistance in completing the thesis or project. Such assistance can be provision of personal, financial, or moral support, or access to data sets or subject populations. A brief statement as to the type of assistance provided may follow each person or institution named. If included, this page continues the lower case Roman numeral sequence begun above.
 
 ___
 
 
-**5. Table of Contencts (accoridng to CLU format)**
+**5. Table of Contents (according to CLU format)**
 
 ___
 

@@ -12,9 +12,9 @@ ___
 
 **Failure to Complete the Thesis**
 
-Many students are unable to complete the thesis within the expected two years of study.  Students who do not successfully complete the thesis with the first two years are required to maintain **continuous enrollment** by registering for *PSYC 599C-01 Thesis Continuation* **every semester** until the thesis is successfully completed. 
+Many students are unable to complete the thesis within the expected two years of study.  Students who do not successfully complete the thesis within the first two years are required to maintain **continuous enrollment** by registering for *PSYC 599C-01 Thesis Continuation* **every semester** until the thesis is successfully completed. 
 
-Under special circumstances, students can take a leave of absence from the university.  Such a leave of absence is completed in accordance with university policy which can be found through the university [registrar](https://www.callutheran.edu/students/registrar/).
+Under special circumstances, students can take a leave of absence from the university.  Such a leave of absence is completed in accordance with university policies which can be found through the university [registrar](https://www.callutheran.edu/students/registrar/).
 
 ___
 
