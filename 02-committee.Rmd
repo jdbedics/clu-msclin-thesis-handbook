@@ -38,7 +38,7 @@ ___
 
 ___
 
-## Working with your committee
+**4. Working with your committee**
 
 The committee will be most successful when students establish clear expectations for meeting with their committee members.  Clearly established expectations will prevent you from emailing *too little* or *too much*. It is best to suggest *fewer* meetings, perhaps one at the beginning and one at the end of the semester. You will have more meetings with your chair than your reader.  Establish the following:
   
