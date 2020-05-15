@@ -1,7 +1,7 @@
 # Thesis Commons
 
 
-<img src="images/thesiscommons.png" width="310" />
+![](images/thesiscommons.png)<!-- -->
 
 
 
