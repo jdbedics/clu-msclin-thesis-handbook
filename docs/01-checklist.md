@@ -37,6 +37,21 @@ ___
 
 The general thesis topic is required to be selected during the beginning of the first semester of the first year.  The thesis topic, does not, however, determine the hypotheses, methodology or general approach taken by the student to understand the problem (e.g. experimental, quasi-experimental, meta-analytic methods). It would be premature for any student to attempt to define a hypothesis in the first year when their understanding of the topic area is limited and not justified by a thorough literature review.  Hypotheses are typically developed after the first year of study. 
 
+___
+
+
+***Tips for finding a Topic***
+
+Students are often unnecessarily delayed in choosing a thesis topic area to study.  The ambivalence can cause a significant delay in their progress and result in an inferior product.  Students should keep a few ideas in mind:
+  
+  1. It certainly is helpful if you are *passionate* about the topic.  When a person is passionate  about a topic it means they naturally want to read and understand the area under study.  They often go to sleep thinking about the topic and wake up already thinking about the topic and what they want to accomplish that day
+  
+  2. Passion often starts by *interest* and is acquired through hard work.  It is okay if you are not passionate about any particular problem area.  If you have an area that you are interested in then that's a good start and simple select one area and make that your focus.  
+  
+  3. Select *one* interest.  Students have multiple interests.  They might study one and then say to themselves, "Well, maybe I'll look at this instead" and then change their topic to another interest.  The process described has two problems.  First, it assumes their is a *right* area to be studying and you should just *feel* it and it should be easy.  Second, it delays the students ability to make a good project.  Our advice is to stick with your decision.  Passion comes from hard work, lots of reading, lots of conversations especially during times when you are not *feeling* it or doubtful
+  
+  4. The thesis will not define you.  Student's should understand that the topic they select to study will not define their career.  In this sense, the thesis topic is less relevant.  What is most important is that the students learns *how* to become scholars around a particular area of study.  Students cannot do that if they do not commit to the thesis topic early in the first semester.   In sum, it would be nice if your passionate or interested but it simply is not *necessary* nor is it expected for you to get the most out of the master's program. 
+  
 **Due**: October 1st, first year.
 
 ___

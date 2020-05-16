@@ -37,6 +37,7 @@ Scholarly research requires the skills of inquiry which must be demonstrated by 
 
 Research may be a thesis or a research project. While both are important contributions to the body of knowledge in a discipline, they have different purposes as described in the following sections.
 
+
 ___
 
 ## Comprehensive Exam
