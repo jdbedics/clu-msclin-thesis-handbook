@@ -16,6 +16,8 @@ Many students are unable to complete the thesis within the expected two years of
 
 Under special circumstances, students can take a leave of absence from the university.  Such a leave of absence is completed in accordance with university policies which can be found through the university [registrar](https://www.callutheran.edu/students/registrar/).
 
+
+
 ___
 
 
