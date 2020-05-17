@@ -27,7 +27,7 @@ ___
 
 ___
 
-Scholarly research requires the skills of inquiry as a method of addressing a problem. As a participant in research activities in the MS Clinical Program, the program expects students to develop the abilities to:
+Scholarly research requires the skills of inquiry as a method of addressing a problem. As a participant in research activities in the MSCP program, students are expected to develop the following abilities:
 
   1. Create or contribute empirical knowledge to the existing body of information in a discipline.
   2. Carryout systematic inquiry of a body of literature.
@@ -35,7 +35,7 @@ Scholarly research requires the skills of inquiry as a method of addressing a pr
   4. Work with faculty or other professionals on a research project.
   5. Use scholarly writing techniques.
 
-Research conducted in the MS in Clinical Psychology program may be a thesis or a research project. While both are important contributions to the body of knowledge in a discipline, they have different purposes as described in the following sections.  The most critical being that the thesis is taken for credit and partial fulfillment of the degree and in replacement of the comprehensive exam.
+Research conducted in the MSCP program may be a thesis or a research project. While both are important contributions to the body of knowledge in a discipline, they have different purposes as described in the following sections.  The most critical being that the thesis is taken for credit and partial fulfillment of the degree and in replacement of the comprehensive exam.
 
 
 ___
