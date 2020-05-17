@@ -29,7 +29,7 @@ Students who wish to pursue the thesis option are required to meet with Dr. Bedi
 |21.| Shiny App | Optional |Second Year | [_____]  |
 
 
-## Thesis Topic
+## Thesis Topic Selection
 
 ___
 

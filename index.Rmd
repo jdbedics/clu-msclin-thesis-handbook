@@ -1,6 +1,6 @@
 --- 
 title: "CLU MS Clinical Psychology Thesis Handbook"
-author: "Jamie Bedics, PhD, ABPP"
+author: "Jamie Bedics, PhD, ABPP, Program Director"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -27,15 +27,15 @@ ___
 
 ___
 
-Scholarly research requires the skills of inquiry which must be demonstrated by all students. As a participant in research activities at CLU, the University expects you to develop the abilities to:
+Scholarly research requires the skills of inquiry as a method of addressing a problem. As a participant in research activities in the MS Clinical Program, the program expects students to develop the abilities to:
 
-  1. Create or contribute empirical knowledge to the existing body of information in a discipline;
-  2. Carryout systematic inquiry;
-  3. Use tools of research including analyzing existing research, implementing research designs, using and/or developing instrumentation, employing appropriate methods of data analysis, and handling the logistics of conducting a research study;
-  4. Work with faculty or other professionals on a research project;
+  1. Create or contribute empirical knowledge to the existing body of information in a discipline.
+  2. Carryout systematic inquiry of a body of literature.
+  3. Use tools of research including analyzing existing research, implementing research designs, using and/or developing instrumentation, employing appropriate methods of data analysis, and handling the logistics of conducting a research study.
+  4. Work with faculty or other professionals on a research project.
   5. Use scholarly writing techniques.
 
-Research may be a thesis or a research project. While both are important contributions to the body of knowledge in a discipline, they have different purposes as described in the following sections.
+Research conducted in the MS in Clinical Psychology program may be a thesis or a research project. While both are important contributions to the body of knowledge in a discipline, they have different purposes as described in the following sections.  The most critical being that the thesis is taken for credit and partial fulfillment of the degree and in replacement of the comprehensive exam.
 
 
 ___
@@ -59,7 +59,7 @@ By default, students entering the MSCP program are required to complete the comp
   * Students **do not** take *PSYC 566 Thesis (3 units)* in the spring of their 2nd year.  
   * As a result, students who take the comprehensive exams graduate with a total of **37-units** 
     instead of 40-units with the thesis option.
-  * Students who take the comprehensive exam are also **not** required to take *PSYC 565 Research Practicum* in the fall of their 2nd year.  Students can choose an elective of their choosing which could be PSYC 565 if they choose. 
+  * Students who take the comprehensive exam are also **not** required to take *PSYC 565 Research Practicum* in the fall of their 2nd year.  Instead, students can choose an elective course in consultation with the Program Diretor. 
 
   
 
