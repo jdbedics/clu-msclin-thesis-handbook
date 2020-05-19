@@ -1,7 +1,7 @@
 --- 
 title: "CLU MS Clinical Psychology Thesis Handbook"
 author: "Jamie Bedics, PhD, ABPP, Program Director"
-date: "2020-05-17"
+date: "2020-05-18"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -13,7 +13,7 @@ github-repo: jdbedics/thesishandbook
 description: "Guidelines for completion of the thesis for the MS in Clinical Psychology Program at CLU."
 ---
 
-# Goal of the Handbook
+# Goal of the Handbook {#goal}
 
 ___
 
@@ -35,7 +35,7 @@ Scholarly research requires the skills of inquiry as a method of addressing a pr
   4. Work with faculty or other professionals on a research project.
   5. Use scholarly writing techniques.
 
-Research conducted in the MSCP program may be a thesis or a research project. While both are important contributions to the body of knowledge in a discipline, they have different purposes as described in the following sections.  The most critical being that the thesis is taken for credit and partial fulfillment of the degree and in replacement of the comprehensive exam.
+Research conducted in the MSCP program may be a thesis or a research project (Section 1.5). While both are important contributions to the body of knowledge in a discipline, they have different purposes as described in the following sections.  The most critical being that the thesis is taken for credit and partial fulfillment of the degree and in replacement of the comprehensive exam. 
 
 
 ___
