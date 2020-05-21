@@ -35,24 +35,24 @@ ___
 
 **Defining the Problem Area**
 
-The general thesis topic is required to be selected during the beginning of the first semester of the first year.  The thesis topic, does not, however, determine the hypotheses, methodology or general approach taken by the student to understand the problem (e.g. experimental, quasi-experimental, meta-analytic methods). It would be premature for any student to attempt to define a hypothesis in the first year when their understanding of the topic area is limited and not justified by a thorough literature review.  Hypotheses are typically developed after the first year of study. 
+The general thesis topic is required to be selected during the beginning of the first semester of the first year.  The thesis topic, does not, however, determine the hypotheses, methodology or general approach taken by the student to understand the problem (e.g. experimental, quasi-experimental, meta-analytic methods). It would be premature for any student to attempt to define a hypothesis in the first year when their understanding of the topic area is limited and not justified by a thorough literature review.  Hypotheses are typically developed after the first year of study (see the Wampold article in [Section 10 References](#resources) for a guide on hypothesis development). 
 
 ___
 
 
 ***Tips for finding a Topic***
 
-Students are often unnecessarily delayed in choosing a thesis area to study.  Ambivalence in choosing a broad topic area can cause a significant delay in students making the progress necessary to complete the thesis.  Students should keep a few ideas in mind:
+Students are often unnecessarily delayed in choosing a thesis area to study.  Ambivalence in choosing a broad area to study can cause significant delay in students ability to successfully complete the steps necessary to stay on track in completing the thesis. Students should keep a few ideas in mind:
   
-  1. It certainly is helpful if you are **passionate** about the topic.  When a person is passionate  about a topic it means they naturally want to read and understand the area under study.  They often go to sleep thinking about the topic and wake up already thinking about the topic and what they want to accomplish that day.
+  1. It certainly is helpful if you are **passionate** about the topic.  When a person is passionate  about a topic it is often demonstrated when they naturally want to read and understand the area under study.  They often go to sleep thinking about the topic and wake up already thinking about the topic and what they want to accomplish that day.  It can be an exciting, and also stressful, time. 
   
-  2. Passion often starts by first examining an **interest**.  It is okay if you are not particularly passionate about any particular problem area.  If you have an area that you are interested in then that's a good start and simple select one area and make that your focus. Passion often comes from dedicated work surrounding an area of interest.
+  2. Passion, however, often starts by first examining an **interest**.  It is okay if you are not particularly passionate about any particular problem area.  If you have an area that you are interested in then that's a good start.  The next step is to simply select one area and make that your focus. Passion often comes from dedicated and consistent work surrounding an area of interest.
   
-  3. **Select *one* interest**.  The problem is that we all have multiple interests.  For example, you  might really like schizophrenia but at the same time you're really interested in forensic psychology and the prison system.  One semester you might want to study psychosis and the next semester you might decide that you have more interest in the prison system.  Students can "flip flop" for a variety of reasons which had two unfortunate consequences. First, students never get anything done.  When you do not get anything done then it's hard to feel a sense of mastery and accomplishment that comes from work around a specific topic.  Second, continued indecisiveness could implicitly instill in the student a sense that they should always feel comfortable with their topic, that work on the thesis should always be easy, or that they might be "missing out" by not researching another area.  In reality, none of these are true.
+  3. **Select *one* interest**.  The problem is that we all have multiple interests.  For example, you  might really like schizophrenia but at the same time you're really interested in forensic psychology and the prison system.  One semester you might want to study psychosis and the next semester you might decide that you have more of an interest in the prison system.  Students can "flip flop" for a variety of reasons which can have two unfortunate consequences. First, students never get anything done.  When you do not get anything done then it's hard to feel a sense of mastery and accomplishment that comes from work around a specific topic.  Second, continued indecisiveness could implicitly instill in the student a sense that they should always feel comfortable with their topic, that work on the thesis should always be easy, or that they might be "missing out" by not researching another area.  In reality, none of these are true.
   
-  4. **The thesis will not define you.**  Student's should understand that the topic they select to study will not define their career.  In this sense, the thesis topic itself is really not all that important.  What is most important is that the students learns *how* to become scholar and do research. Students cannot do that if they do not commit to the thesis topic early in the first semester.   In sum, it would be nice if you are passionate or, at minimum, interested in the topic but it simply is not ***necessary*** nor is it expected for you to get the most out of the master's program. 
+  4. **The thesis will not define you.**  Students should understand that the topic they select to study will not define their career.  In this sense, the thesis topic itself is really not all that important. What is most important is that the students learns *how* to become scholars and how to do competent research. Students cannot learn how to conduct proper research if they do not commit to the thesis topic early in the first semester. In sum, it would be nice if you are passionate or, at minimum, interested in the topic but it simply is not ***necessary*** nor is it expected for you to get the most out of the master's program and specifically, the thesis. 
   
-  5. **Find an article that excites you.**  One way to find a topic to study is choose an area of interest and read as many research articles in the subject that you can.  In doing so, it will be easiest to read the introduction and discussion to start.  Diving into the method and results can sometimes be overwhelming due to their complexity.  For this exercise, we simply want you to find an article that inspires you and you'll most likely find that in the introduction and discussion.  Once you find an article that excites you, look at the methods and results and consider how you could replicate the article for your thesis.  
+  5. **Find an article that excites you.**  One way to find a topic to study is choose an area of interest and read as many research articles in the subject that you can.  In doing so, it will be easiest to read the introduction and discussion sections only.  Diving into the method and results can sometimes be overwhelming due to their complexity and demoralizing.  Instead, the goal is simply to help students find an article that inspires them.  Once a student finds an article that excites them, they can consider the method and results section. Good science can be replicated.  Similarly, an excellent thesis would be a replication study to see if the effect reported in prior work can be found again.  We do not often do this in psychological science and our field suffers because of it. 
   
 **Due**: October 1st, first year.
 
@@ -123,11 +123,11 @@ The chair must have *content knowledge* of the area under investigation for the 
 
 **Committee Reader**
 
-The reader must have either content knowledge or expert *methodological knowledge* of the area under investigation for the thesis. For example, if the thesis is on schizophrenia and utilizes an experimental design the the reader can either have knowledge of schizophrenia **or** knowledge of the experimental methods proposed.  The reader can be a part-time or full-time faculty member at CLU or a professional in the community with at least a Master’s degree that has the aforementioned expertise. The reader must be chosen with approval of program advisor and thesis Committee Chair. There can be exceptions to the above criteria with the approval of Dr. Bedics. 
+The reader must have either content knowledge or expert *methodological knowledge* of the area under investigation for the thesis. For example, if the thesis is on schizophrenia and utilizes an experimental design then the reader can either have knowledge of schizophrenia **or** knowledge of the experimental methods proposed.  The reader can be a part-time or full-time faculty member at CLU or a professional in the community with at least a Master’s degree that has the aforementioned expertise. The reader must be chosen with approval of Program Director and thesis Committee Chair. There can be exceptions to the above criteria with the approval of Dr. Bedics. 
 
 ___
 
-Please see the **Thesis Committee** section of this handbook for information on how to acquire a committee. 
+Please see [Section 4 Thesis Committee](#people) of this handbook for information on how to acquire a committee. 
   
 **Due**: June 30th, Summer after First Year
 
@@ -137,7 +137,7 @@ ___
 
 ___
 
-During the summer following the first year, committee members read the literature review and method section and provide a general statement of approval to Dr. Bedics.  Based upon this approval, students are allowed to progress to the *thesis track.*  The rest of the thesis process is guided through coursework including PSYC 565 Research Practicum in the fall of the second year and PSYC 566 Thesis in the spring of the second year. 
+During the summer following the first year, committee members read the literature review and method section and provide a general statement of approval to Dr. Bedics.  Based upon this approval, students are allowed to progress to the **thesis track** and enroll in PSYC 565 Research Practicum in the fall of the second year and PSYC 566 Thesis in the spring of the second year. 
 
 **Due**: September 1st, Second Year
 
@@ -147,7 +147,7 @@ ___
 
 ___
 
-Academic good standing refers to maintaining a GPA above a 3.0 throughout the entire program and acting consistently with all policies and procedures defined by the program (see Program Handbook) and university (see university policy and procedures).  Any student who receives below a B- in any course is not allowed to complete the thesis for course credit and partial fulfillment of the degree. They can, however, complete a research project with the support of full-time faculty. 
+Academic good standing refers to maintaining a GPA above a 3.0 throughout the entire program and acting consistently with all policies and procedures defined by the program (see Program Handbook) and university (see university policy and procedures).  Any student who receives below a B- in any course, at anytime in the program, is not allowed to complete the thesis for course credit and partial fulfillment of the degree. They can, however, complete a research project with the support of full-time faculty. 
 
 **Due**: Every semester
 

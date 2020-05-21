@@ -1,6 +1,6 @@
-# Thesis Binding
+# Thesis Binding {#binding}
 
-The following are instructions for binding your thesis.  The binding of your thesis is _optional_ and at your expense.You are responsible for the spelling, grammar, and correct APA formatting of your thesis. A bound thesis is a **final** thesis.  
+The following are instructions for binding your thesis.  The binding of your thesis is _optional_ and at your expense.You are responsible for the spelling, grammar, and correct APA formatting of your thesis. A bound thesis is a **final** thesis.^[The pricing is subject to change based on bindery costs.]  
 
 1. At least three (3) bound copies of the Thesis must be ordered.
     a.	One copy for the Graduate School of Psychology, one copy for the Thesis Committee Chair, and one personal copy for your possession. You can order more if you prefer (see #2). 
@@ -24,4 +24,4 @@ The following are instructions for binding your thesis.  The binding of your the
 5.	If you have any questions regarding the binding process, please do not hesitate to contact Mengmeng Liu, Graduate Program Specialist, at 805-493-3662 or at mengmengliu@callutheran.edu.
 
 
-___
+

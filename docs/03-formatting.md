@@ -4,7 +4,7 @@
 ![](images/apamanual.png)<!-- -->
 
 
- The thesis paper is completed in a manner consistent with the [Publication Manual of the APA (7th Edition)](https://www.amazon.com/s?k=apa+publication+manual+7th+edition&crid=7T10VJ2PYQZH&sprefix=apa+pu%2Caps%2C261&ref=nb_sb_ss_i_1_6). 
+ The thesis paper is completed in a manner consistent with the [Publication Manual of the APA (7th Edition)](https://www.amazon.com/s?k=apa+publication+manual+7th+edition&crid=7T10VJ2PYQZH&sprefix=apa+pu%2Caps%2C261&ref=nb_sb_ss_i_1_6).^[* Sections with asterisks **do not** follow APA style] 
 
   * Title Page*
   * Signature Page*
@@ -20,16 +20,8 @@
   * Tables
   * Figures
   * Appendices
-  
-* There are several sections that **do not** follow the 7th Edition of the Publication Manual:
 
-  * Title Page
-  * Signature Page
-  * Dedication
-  * Acknowledgements
-  * Table of Contents
 
-___
 
 ## Title Page
 
@@ -78,7 +70,7 @@ ___
 
 ## Introduction (APA style)
 
-As noted in the section "Literature Review Timeline," the introduction is drafted during the first semester of the first year in *PSYC 564* and revised every semester of the year.  The introduction is a comprehensive document that demonstrates the students' expertise in the area under study.  
+As noted in the section "Literature Review Timeline," the introduction is drafted during the first semester of the first year in *PSYC 564* and revised every semester of the year.  The introduction is a comprehensive document that demonstrates the students' expertise in the area under study.  A good introduction demonstrated understanding.  In many theses, understanding involves an appreciation and discussion of culture and diversity and a literature review would be incomplete without such a review. 
 
 ___
 
@@ -113,6 +105,7 @@ The discussion is a critical section of the research paper and is typically **10
   * A discussion of the implications of the results for each hypothesis. 
   * A discussion of future steps for each hypothesis.
   * A discussion of the limitations of the study in addressing each hypothesis.
+  * Similar to the introduction, please consider culture and diversity in your discussion of the findings. 
 
 The discussion section demonstrates the student's ability to place their study in the context of the larger literature and think more philosophically.  It is a space for creativity and ingenuity.  
   

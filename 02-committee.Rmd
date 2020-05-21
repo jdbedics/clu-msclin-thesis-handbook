@@ -1,27 +1,27 @@
-# Thesis Committee
+# Thesis Committee {#people}
 
 **Finding a Committee**
 
-For many faculty, being on a thesis committee is a lot of work and they are often reluctant to join a committee. Consequently, how students choose to approach faculty is very critical. Dr. Bedics will walk students through much of the process. 
+For many faculty, being on a thesis committee is a lot of work and they are often reluctant to agree to help students. Consequently, how students choose to approach faculty is very critical. Please consider these guidelines and talk to Dr. Bedics prior to reaching out to potential committee members.   
 
 ___
 
 **1. Identifying Potential Faculty**
 
-Search the CLU website for potential faculty that could contribute to your idea.  Look at faculty interests in graduate psychology, undergraduate psychology, as well as other departments at CLU.  Students could also identify faculty at other universities that might serve on the committee.  Once identified, students should email Dr. Bedics to discuss *prior to students contacting the faculty themselves.*
+Search the CLU website for potential faculty that could contribute to your idea.  Look at faculty interests in graduate psychology, undergraduate psychology, as well as other departments at CLU.  Students could also identify faculty at other universities that might serve on the committee.  Once identified, students should email Dr. Bedics to discuss.
 
 ___
 
 **2.	Foot-in-the-Door** 
 
-Students first introduce themselves to faculty through email.  **Do not ask them to join your committee** in the first email.  Instead, ask them if they have time to answer questions about your project. If they don't have time or incentive to do this simple task then they will not be willing to be on your committee. The foot-in-the-door strategy allows students to gain feedback from the person even if they are not willing to be on students' committee.  
+Students first introduce themselves to faculty through email.  **Do not ask them to join your committee** in the first email.  Instead, ask them if they have time to answer questions about your project. If they don't have time or incentive to do this then they will not be willing to be on your committee. The foot-in-the-door strategy also allows students to gain feedback from the person even if they are not willing to be on students' committee.  
 
 Here is a properly formatted and professional email using the foot-in-the-door strategy:
 
 ```
 Dear Dr. ###,
 
-My name is STUDENT and I am currently developing my master’s thesis project at California Lutheran University in the MS Clinical Psychology Program.  The topic is <TOPIC>. I think your expertise in <AREA> would help me in thinking through some of the details of the thesis.  I was curious if you could make time to answer a few questions over email or perhaps even chat over the phone or during your office hours?  I have attached a brief summary of my project.
+My name is <STUDENT> and I am currently developing my master’s thesis project at California Lutheran University in the MS Clinical Psychology Program.  The topic is <TOPIC>. I think your expertise in <AREA> would help me in thinking through some of the details of the thesis.  I was curious if you could make time to answer a few questions over email or perhaps even chat over the phone or during your office hours?  I have attached a brief summary of my project.
 
 Thank you for your time and consideration.
 
@@ -44,7 +44,7 @@ The committee will be most successful when students establish clear expectations
   
   * Make a clear statement that you are respectful of their time and do not want to meet too much or too little.  Faculty often appreciate such direct and respectful statements. 
   
-  * Suggest two meetings a semester and go from there.  They might suggest more or a timeline based on other criteria.
+  * Suggest two meetings a semester and go from there.  They might suggest more or a timeline based upon other criteria.
 
 ___
 
