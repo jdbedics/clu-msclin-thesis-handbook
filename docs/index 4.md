@@ -1,7 +1,7 @@
 --- 
 title: "CLU MS Clinical Psychology Thesis Handbook"
 author: "Jamie Bedics, PhD, ABPP, Program Director"
-date: "2020-05-21"
+date: "2020-05-20"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -13,7 +13,7 @@ github-repo: jdbedics/thesishandbook
 description: "Guidelines for completion of the thesis for the MS in Clinical Psychology Program at CLU."
 ---
 
-# Goal of the Handbook
+# Goal of the Handbook {#goal}
 
 ___
 
@@ -75,7 +75,7 @@ The thesis is the result of an original empirical investigation that creates new
   3. Methods to be used for obtaining the needed knowledge;
   4. Resulting new knowledge;
   5. Interpretation of the new knowledge;
-  6. Transparent and open sharing of materials and results through the use of the open science framework.
+  6. Transparent and open sharing of materials and results via pre-registration and use of the open science framework.
 
 **Tasks:**
 
@@ -110,7 +110,7 @@ ___
   * The thesis timeline creates accountability and structure in completing the thesis.
   * Doctoral programs often look favorably towards a completed thesis that demonstrates students' ability to successfully complete a research project.
   * Doctoral programs that require a thesis might *waive* the thesis requirement based upon the completed thesis at CLU.
-  * Students can have the thesis bound into a book (see [Section 6 Thesis Binding](#binding)).
+  * Students can have the thesis bound into a book (see [Thesis Binding Section](#binding).
   * Students can earn quality letters for recommendation from their thesis committee members. These letters are often more meaningful than letters from employers or course instructors. 
 
 ***Thesis "Cons"***
@@ -126,9 +126,9 @@ ___
   * Students are given a review sheet to help them study.
   * The exam is completed in a single day compared to the thesis that takes 2-years.
   * Questions that are not adequately answered can be successfully remitted before "failing."
-  * Students can still complete an **research project** (see next section) which would allow the first three *thesis pros* to be achieved.  A good research project is just as valued as a good thesis. 
+  * Students can still complete an **research project** (see next section) which would allow the first three *thesis pros* to be achieved.
   * Students can choose any 3-credit elective during their second year (spring is recommended).
-  * The entire program is **37-units** versus 40-units with the thesis option.
+  * The entire program is 37-units versus 40-units with the thesis option.
   
 ***Comps "Cons"***
  
