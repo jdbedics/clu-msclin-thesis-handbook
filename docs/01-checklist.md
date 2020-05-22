@@ -66,7 +66,7 @@ ___
 ![](images/osf.png)<!-- -->
 
 
-[OSF](https://osf.io/) is a repository that allows researchers to transparently share their work with the larger scientific community. During the course of the program, students use OSF to organize their thesis and other independent research projects.  Instructions for setting up an OSF project can be found [here](https://speakerdeck.com/jdbedics/osf-setup-and-class-project-introduction) and will be reviewed with Dr. Bedics at students' first advising meeting. 
+[OSF](https://osf.io/) is a repository that allows researchers to transparently share their work with the larger scientific community. During the course of the program, students use OSF to organize their thesis and other independent research projects.  Instructions for setting up an OSF project can be found [here](https://speakerdeck.com/jdbedics/osf-setup-and-class-project-introduction) and will be reviewed with Dr. Bedics at students first advising meeting. 
 
 In addition to organizing students' workflow, OSF allows students to showcase their work to their peers and potential employers and doctoral advisors.  Students in the thesis option are required to use OSF and it is strongly recommended for students completing the research project. 
 
@@ -83,7 +83,9 @@ ___
 
 The development of the literature review begins during the fall of the first year during PSYC 564 Advanced Research Methods.  The literature review will become the "introduction" section of the final thesis paper.  The literature review demonstrates the student's mastery of the literature surrounding the *problem* to be addressed by the thesis.  Initial drafts, such as that from PSYC 564, are 10-12 pages in length.  
 
-The development of the literature review is, however, ongoing throughout the two years of the program until the final draft is submitted on May 1st of the second year. The typical length of a *complete* literature review is between **20-40 pages** long but there is no maximum length. 
+The development of the literature review is, however, ongoing throughout the two years of the program until the final draft is submitted on May 1st of the second year. The typical length of a *completed* introduction section is between **20-40 pages** long but there is no maximum length. 
+
+In terms of content, students are encouraged to consider multiple perspectives in their work and also to integrate their thoughts related to culture and diversity regarding the topic area.  The idea here is that a good understanding of a problem area involves a thorough understanding of the context.  Context includes a consideration of the place, time, and people under study as well as the same charactertistics of those who are doing the investigating.  
 
 **Due**: 
   
