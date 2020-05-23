@@ -42,17 +42,17 @@ ___
 
 ***Tips for finding a Topic***
 
-Students are often unnecessarily delayed in choosing a topic area to study.  Ambivalence in choosing an area to study can lead to delays in completing the thesis. In choosing a topic students should keep a few points in mind:
+Students are often unnecessarily delayed in choosing a broad area to study which can impact the success of the thesis.  In choosing a topic students should keep a few points in mind:
   
-  1. It certainly is helpful if you are **passionate** about the topic.  When a person is passionate  about a topic they often naturally want to read about and understand the area under study.  They often go to sleep thinking about the topic and wake up already thinking about the topic and what they want to accomplish that day.  It can be an exciting but also a stressful time. 
+  1. It certainly is helpful if you are **passionate** about the topic.  When a person is passionate  about a topic they naturally want to read about and understand the area under study.  They often go to bed thinking about the topic and will wake up excited and thinking about what they will do that day related to their project. It can be a very exciting time because you're working on something you love and have fun doing.
   
-  2. It is okay if you are not particularly passionate about any particular area of study. Passion often starts by first examining an area **interest** with considerable focus and attention.  If you have an area that you are interested in then that's a good start.  The next step is to simply select one area and make that your focus with concentrated reading and conversation with peers and instructors. Passion often comes from dedicated and consistent work surrounding an area of interest.
+  2. **Reflect on your interests.** It's okay if you are not particularly passionate about any specific area of study. Passion often starts by first examining an area of **interest** with some degree of focus, commitment, and consistency. If you have an area of interest then the next step is to simply select one area, commit to it, and start reading and writing. Passion often comes *after* we put the work in. 
   
-  3. **Select *one* interest**.  The problem is that we all have multiple interests.  For example, you  might really like schizophrenia but at the same time you're really interested in forensic psychology and the prison system.  One semester you might want to study psychosis and the next semester you might become more interested in the prison system. Students can "flip flop" for a variety of reasons which can have two unfortunate consequences. First, you never get anything done.  When you don't get anything done then it's hard to feel good about yourself and is also hard to feel that you're learning anything and making any cumulative progress.  Second, continued indecisiveness could implicitly instill in the student a sense that they should always _feel_ comfortable with their topic, that work on the thesis should always be _easy_ and _interesting_, or that they might be _"missing out"_ by not researching some other area of interest.  In reality, none of these are true. One of the greatest challenges of doing research is developing the ability to consistently complete make small steps on a project even when the feeling is not there and other demands are present. 
+  3. **Select *one* interest. Don't flip-flop.**  The problem is that we all have multiple interests.  For example, you might really like schizophrenia but at the same time you're really interested in forensic psychology and the prison system.  One semester you might want to study psychosis and the next semester you might become more interested in the prison system. Students can "flip flop" for a variety of reasons which can have two unfortunate consequences. First, you never get anything done.  When you don't get anything done then it's hard to feel good about yourself and you make no progress.  Second, continued indecisiveness could implicitly instill in the student a sense that they should always feel comfortable with their topic, that work on the thesis should always be easy and interesting, or that they might be "missing out" by not researching some other area of interest.  In reality, none of these are true. One of the greatest challenges of doing research is developing the ability to consistently make small steps on a project even when the feeling is not there or other demands are present and taking up our time. It is likely that you're lifestyle and habits will change when dedicated to research.  You just work more (much, much, more).  
   
-  4. **The thesis will not define you.**  Students should understand that the topic they select to study will not define their career.  In this sense, the thesis topic itself is not really important. What is more important is that students just pick a topic so they can learn *how* to do competent research. You can't do that if you don't have a focused topic. In sum, it would be nice if you are passionate or, at minimum, interested in the topic but it simply is not ***necessary***. 
+  4. **The thesis will not define you.**  Students should understand that the topic they select to study will not define their career.  In this sense, the thesis topic itself is not really that important. What is more important is that students pick a topic so they can learn *how* to do competent research. You can't do that if you don't have a focused topic. In sum, it would be nice if you are passionate or, at minimum, interested in the topic but it simply is not ***necessary***. 
   
-  5. **Find an article that excites you.**  One way to find a topic to study is choose an area of interest and read as many research articles in the subject that you can.  In doing so, it will be easiest to read the introduction and discussion sections only.  Diving into the method and results can sometimes be overwhelming and demoralizing.  Once a student finds an article that excites them, they can consider the method and results section.  A second important point here is that good science should include **replication**.  An excellent thesis would be a replication study to see if the effect reported in prior work can be found again.  We do not often do this in psychological science and our field suffers because of it. 
+  5. **Find an article that excites you.**  One way to find a topic is to choose an area of interest and read as many research articles in the subject that you can.  In doing so, it will be easiest to read the introduction and discussion sections only.  Diving into the method and results can sometimes be overwhelming and demoralizing.  Once a student finds an article that excites them, they can consider the method and results section.  A second important point here is that good science should include **replication**.  An excellent thesis would be a replication study to see if the effects reported in prior work can be found again.  We do not often do this in psychological science and our field suffers because of it. 
   
 **Due**: October 1st, first year.
 
@@ -85,7 +85,7 @@ The development of the literature review begins during the fall of the first yea
 
 The development of the literature review is, however, ongoing throughout the two years of the program until the final draft is submitted on May 1st of the second year. The typical length of a *completed* introduction section is between **20-40 pages** long but there is no maximum length. 
 
-In terms of content, students are encouraged to consider multiple perspectives in their work and also to integrate their thoughts related to culture and diversity regarding the topic area.  The idea here is that a good understanding of a problem area involves a thorough understanding of the context.  Context includes a consideration of the place, time, and people under study as well as the same charactertistics of those who are doing the investigating.  
+In terms of content, students are encouraged to consider multiple perspectives in their work and also to integrate their thoughts related to culture and diversity regarding the topic area.  The idea here is that a good understanding of a problem area involves a thorough understanding of the context.  Context includes a consideration of the place, time, and people under study as well as the same characteristics of those who are doing the investigating.  
 
 **Due**: 
   
@@ -104,10 +104,25 @@ ___
 
 The method sections defines the procedures of the thesis. The method section consists of the participant selection, selection of methods of measurements or materials, the procedure and the data analytic method. The method section can be worked on in *PSYC 552 Psychometrics* during spring of the first year and also *PSYC 562 Statistics II: Regression.*  The method section is finalized during *PSYC 565 Research Practicum* in the fall of the second year.
 
+Lastly, the method section should include a **power analysis.**  The primary purpose of the power analysis is to provide students with the best understanding of the size of the sample needed to successfully test their hypothesis.   In other words, students should never have to say in their discussion "The study was limited due to a small sample.  Future research should include a larger sample size."  When authors make this statement they are basically stating that they ran a study where they can't lose.  If they find significance then great.  If they don't then they say "Oh well, we're probably right but just need more people."  You should ask yourself,  why would you run a test when you couldn't reach a conclusion and when you basically say you "win" regardless. It makes no sense to run the study. 
+
+The power analysis should be calculated during the summer or during PSYC 565 in the fall of the second year and prior to IRB submission. 
+
+**Video Resources:**
+
+1. A conceptual overview of power analysis can be found [here](https://www.youtube.com/watch?v=Lr-i4Ugoc5M).  If you like that professor, here is another video by him that I like on his personal [website](https://www.youtube.com/watch?v=XhfkodpyIsw)
+
+2. An overview from the Center for Open Science.
+    
+  [Part 1, What is Statisical Power](https://www.youtube.com/watch?v=-ZU7fbvSJ60)
+  [Part 2, Consequences of low power](https://www.youtube.com/watch?v=7daQRvRO-NE) 
+    
+Any article on the topic can found in the [10 Resources](#resources)
+
 **Due**: 
 
   1. May 1st, first year (First Draft);
-  2. December 15th, second year (Second Draft)
+  2. December 15th, second year (Second Draft including power analysis)
 
 ___
 
