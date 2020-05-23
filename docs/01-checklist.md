@@ -113,11 +113,12 @@ The power analysis should be calculated during the summer or during PSYC 565 in 
 1. A conceptual overview of power analysis can be found [here](https://www.youtube.com/watch?v=Lr-i4Ugoc5M).  If you like that professor, here is another video by him that I like on his personal [website](https://www.youtube.com/watch?v=XhfkodpyIsw)
 
 2. An overview from the Center for Open Science.
+     
+      [Part 1: What is Statisical Power](https://www.youtube.com/watch?v=-ZU7fbvSJ60)
+      
+      [Part 2: Consequences of low power](https://www.youtube.com/watch?v=7daQRvRO-NE) 
     
-  [Part 1, What is Statisical Power](https://www.youtube.com/watch?v=-ZU7fbvSJ60)
-  [Part 2, Consequences of low power](https://www.youtube.com/watch?v=7daQRvRO-NE) 
-    
-Any article on the topic can found in the [10 Resources](#resources)
+3. Any article on the topic can found in the [10 Resources](#resources).
 
 **Due**: 
 
