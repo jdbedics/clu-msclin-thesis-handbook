@@ -118,7 +118,7 @@ The power analysis should be calculated during the summer or during PSYC 565 in 
       
       [Part 2: Consequences of low power](https://www.youtube.com/watch?v=7daQRvRO-NE) 
     
-3. Any article on the topic can found in the [10 Resources](#resources).
+3. An article on the topic can found in [10 Resources](#resources).
 
 **Due**: 
 
