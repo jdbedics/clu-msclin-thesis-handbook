@@ -1,7 +1,7 @@
 --- 
 title: "CLU MS Clinical Psychology Thesis Handbook"
 author: "Jamie Bedics, PhD, ABPP, Program Director"
-date: "2020-05-24"
+date: "2020-05-25"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -17,7 +17,7 @@ description: "Guidelines for completion of the thesis for the MS in Clinical Psy
 
 ___
 
-The goal of this handbook is to provide students with the information needed to successfully complete the master's thesis in the MS in Clinical Psychology Program (MSCP) at California Lutheran University (CLU). The manual should be understood as a supplement to the broader policies and procedures defined by the program^[See the _MS Clinical student Handbook_ found on Blackboard under _Graduate Psychology Community/MS Clinical Psych_] and [university](https://www.callutheran.edu/students/student-conduct/student-handbook.html). 
+The goal of this handbook is to provide students with the information needed to successfully complete the master's thesis in the MS in Clinical Psychology Program (MSCP) at California Lutheran University (CLU). The manual should be understood as a supplement to the broader policies and procedures defined by the program^[See the _MS Clinical student Handbook_ found on Blackboard under _Graduate Psychology Community/MS Clinical Psych/_] and the [university](https://www.callutheran.edu/students/student-conduct/student-handbook.html). 
 
 If this is the printed version, updates to this handbook can be found at: https://jdbedics.github.io/thesishandbook/
 
