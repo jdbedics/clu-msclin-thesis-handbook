@@ -75,7 +75,7 @@ In addition to organizing students' workflow, OSF allows students to showcase th
 ___
 
 
-## Literature Review Timeline
+## Literature Review Timeline {#litreview}
 
 ___
 
@@ -96,13 +96,15 @@ In terms of content, students are encouraged to consider multiple perspectives i
 ___
 
 
-## Method Section Timeline
+## Method Section Timeline {#method}
 
 ___
 
 **Solving the Problem**
 
 The method sections defines the procedures of the thesis. The method section consists of the participant selection, selection of methods of measurements or materials, the procedure, and the data analytic method. The method section can be worked on in *PSYC 552 Psychometrics* and *PSYC 562 Statistics II: Regression* during the Spring Semester of the first year.  The method section is finalized during *PSYC 565 Research Practicum* in the Fall Semester of the second year when students prepare their submission to the [CLU IRB](https://www.callutheran.edu/research/irb/).
+
+Students at CLU also pre-registered their hypotheses using [AS Predicted](https://aspredicted.org/).  A pre-registration is method of distinguishing between exploratory and confirmatory hypotheses.  The concept of pre-registration is discussed during _PSYC 521 Clinical and Research Ethics_ during the Summer Semester. 
 
 Lastly, the method section should include a **power analysis.**  The primary purpose of the power analysis is to provide students with the best understanding of the size of the sample needed to successfully test their hypothesis(-es).   In other words, students should never have to say in their discussion "The study was limited due to a small sample size.  Future research should include a larger sample size."  When authors make this statement they are basically stating that they ran a pointless study.  If the study is _under-powered_ then the truth cannot be adequately discerned from the outset.  If the study finds significance, then it might be a false positive; if a study does not find significance then the authors say they likely would have if they had enough people.  In each of these instances there is no credible chance to fail and, meaningfully, advance science.
 

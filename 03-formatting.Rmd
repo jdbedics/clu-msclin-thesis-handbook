@@ -5,23 +5,26 @@
 knitr::include_graphics("images/apamanual.png")
 ```
 
+___ 
 
- The thesis paper is completed in a manner consistent with the [Publication Manual of the APA (7th Edition)](https://www.amazon.com/s?k=apa+publication+manual+7th+edition&crid=7T10VJ2PYQZH&sprefix=apa+pu%2Caps%2C261&ref=nb_sb_ss_i_1_6).^[* Sections with asterisks **do not** follow APA style] 
+ The thesis paper is completed in a manner consistent with the [Publication Manual of the APA (7th Edition)](https://www.amazon.com/s?k=apa+publication+manual+7th+edition&crid=7T10VJ2PYQZH&sprefix=apa+pu%2Caps%2C261&ref=nb_sb_ss_i_1_6).  Note that certain sections _do not_ follow APA instead and, instead, follow a style shown this manual.
 
-  * Title Page*
-  * Signature Page*
-  * Dedication*
-  * Acknowledgements*
-  * Table of Contents*
-  * Abstract
-  * Introduction
-  * Method
-  * Results
-  * Discussion
-  * References
-  * Tables
-  * Figures
-  * Appendices
+|Order in Paper| Section | Style | 
+|:---: | :--- | :--- |
+|1| Title Page* | CLU Style |
+|2|  Signature Page* | CLU Style |
+|3| Dedication* | CLU Style |
+|4| Acknowledgements* | CLU Style |
+|5| Table of Contents* | CLU Style |
+|6| Abstract | APA Style 7th Ed. |
+|7| Introduction | APA Style 7th Ed. |
+|8| Method | APA Style 7th Ed. |
+|9| Results | APA Style 7th Ed. |
+|10| Discussion | APA Style 7th Ed. |
+|11| References | APA Style 7th Ed. |
+|12| Tables | APA Style 7th Ed. |
+|13| Figures | APA Style 7th Ed. |
+|14| Appendices | APA Style 7th Ed. |
 
 
 
@@ -37,7 +40,7 @@ ___
 
 ## Signature Page
 
-This page provides the name of the author and blank lines for the signatures of the committee members and the Graduate Dean of the appropriate School. The pages are signed when the members and Dean determine that the thesis or project is complete. The approval page should comply with the page form found in Appendix B. It should bear original signatures for all copies. The date at the bottom of the page is the date the degree is awarded; however, the page is not counted in the numbering system.
+This page provides the name of the author and blank lines for the signatures of the committee members, Program Director, and the Graduate Dean. The pages are signed when the committee members and Program Director determine that the thesis is complete. It should bear original signatures for all copies (typically three). The date at the bottom of the page is the date the degree is awarded; however, the page is not counted in the numbering system.
 
 ```{r, echo=FALSE}
 knitr::include_graphics("images/signaturepage.png")
@@ -61,6 +64,7 @@ ___
 
 ## Table of Contents
 
+The table of contents page will be consistent with the below image.  Students can include additional sections as they see fit. 
 
 ```{r, echo=FALSE}
 knitr::include_graphics("images/tablecontents.png")
@@ -71,21 +75,25 @@ ___
 
 ## Abstract (APA style)
 
-The abstract follows APA style and typically completed in the spring of the second semester.  A draft of the abstract, without results and without concluding statements, might be drafted during *PSYC 565 Research Practicum* during the of the second year. 
+The abstract follows APA style and is typically completed in the Spring Semester of the second year.  A draft of the abstract, without results and without concluding statements, might be drafted during *PSYC 565 Research Practicum* during the of the second year. 
 
 ___
 
 
 ## Introduction (APA style)
 
-As noted in the section "Literature Review Timeline," the introduction is drafted during the first semester of the first year in *PSYC 564* and revised every semester of the year.  The introduction is a comprehensive document that demonstrates the students' expertise in the area under study.  A good introduction demonstrated understanding.  In many theses, understanding involves an appreciation and discussion of culture and diversity and a literature review would be incomplete without such a review. 
+As noted in the section ["Literature Review Timeline,"](#litreview) the introduction is drafted during the Fall Semester of the first year in *PSYC 564 Advanced Research Methods* and is revised every semester for the entire course of the program.  The introduction section is a comprehensive document that demonstrates the students' expertise in the area under study. 
+
+In many theses, understanding involves an appreciation and discussion of culture and diversity. A literature review would be incomplete without such a review. 
 
 ___
 
 
 ## Method (APA style)
 
-As noted in the "Method Section Timeline," portions of the Method section can be drafted during the spring semester and finalized during PSYC 565 in the fall of the second year.  The method section defines the procedures of the study and is required for successful IRB approval at CLU.  IRB is accomplished during PSYC 565 in the of the second year but students should review CLU IRB requirements as soon as possible.  A link to the CLU IRB can be found here: [https://www.callutheran.edu/research/irb/](https://www.callutheran.edu/research/irb/).
+As noted in the ["Method Section Timeline,"](#method) portions of the Method section can be drafted during the Spring Semester of the first year and finalized during _PSYC 565 Research Practicum_ in the Fall Semester of the second year.  
+
+The method section defines the procedures of the study and is required for successful IRB approval at CLU.  IRB is accomplished during _PSYC 565 Research Practicum_ in the Fall Semester of the second year but students should review CLU IRB requirements as soon as possible.  A link to the CLU IRB can be found here: [https://www.callutheran.edu/research/irb/](https://www.callutheran.edu/research/irb/). Students should, for example, complete their Ethical Training for the IRB as soon as possible (see CLU IRB website).
 
 
 ___
@@ -93,13 +101,17 @@ ___
 
 ## Data Analytic Method (APA style)
 
-The data analytic plan can be developed during PSYC 562 in the spring of the first year and finalized during PSYC 565 in the of the second year.  At CLU, we exclusively use the statistical program language called R. The data analytic section will include a power analysis as well a link to the study's pre-registration of the data analysis. 
+The data analytic plan can be developed during _PSYC 562 Statistics II: Regression_ in the Spring Semester of the first year and finalized during _PSYC 565 Research Practicum_ in the Fall Semester of the second year.  
+
+At CLU, we exclusively use the statistical program language called [R](https://www.r-project.org/). The data analytic section will also include a [power analysis](#method) as well a link to the study's [pre-registration](https://aspredicted.org/) of the data analysis as noted in the [method section of this manual](#method). 
 
 ___
 
 ## Results (APA style)
 
-The results are typically drafted during the spring of second year.  *PSYC 566 Thesis* is an independent study unit and there are no class meetings.  Instead, students meet with their thesis chair to review and write their analyses in the results section. 
+The results are typically drafted during the Spring Semester of the second year.  *PSYC 566 Thesis* is an independent study course.  There are no class meetings.  Instead, students meet with their thesis chair to review and write their analyses in the results section. 
+
+The results section should be organized by study hypotheses.
 
 ___
 
@@ -122,14 +134,17 @@ ___
 
 ## References (APA style)
 
-References follow APA style.  Please make sure all in-text citations are in the reference section and all citations in the reference section are cited in the text.
+References follow APA style.  Please make sure:
+
+1. All citations _in text_ are in the _reference section_
+2. All citations in the _reference section_ are cited _in text_.
 
 ___
 
 
 ## Tables, Figures, & Appendices (APA style)
 
-Tables and Figures can be essential for helping a reader understand your data analysis and conclusions. Please follow APA formatting for all Table and Figures.
+Tables and Figures can be essential for helping a reader understand your data analysis and conclusions. Please follow APA formatting for all Tables and Figures.
 
 If students choose to bind their thesis then they pay careful attention to formatting in order to maintain the margins of the paper (1.5" all around).  This can especially be a problem for Tables.
 
