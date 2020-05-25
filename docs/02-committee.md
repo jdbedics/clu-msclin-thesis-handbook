@@ -14,7 +14,7 @@ ___
 
 **2.	Foot-in-the-Door** 
 
-Students first introduce themselves to faculty through email.  **Do not ask them to join your committee** in the first email.  Instead, ask them if they have time to answer questions about your project. If they don't have time or incentive to do this then they will not be willing to be on your committee. The foot-in-the-door strategy also allows students to gain feedback from the person even if they are not willing to be on students' committee.  
+Students first introduce themselves to faculty through email.  **Do not ask them to join your committee** in the first email.  Instead, ask them if they have time to answer questions about your project. If they don't have time or incentive to do this then they will not be willing to be on your committee. The foot-in-the-door strategy also allows students to get feedback from the person even if they are not willing to be on students' committee.  
 
 Here is a properly formatted and professional email using the foot-in-the-door strategy:
 
@@ -34,13 +34,13 @@ If they reply, and are positive, then you it is your responsibility to be flexib
 
 ___
 
-**3.	Requesting Committee Membership** – If the initial meeting goes well then Dr. Bedics will email the faculty member to discuss the role of the chair and reader.  
+**3.	Requesting Committee Membership** – If the initial meeting goes well then Dr. Bedics will email the faculty member to discuss the role of the Chair and Reader.  
 
 ___
 
 **4. Working with your committee**
 
-The committee will be most successful when students establish clear expectations for meeting with their committee members.  Clearly established expectations will prevent you from emailing *too little* or *too much*. It is best to suggest *fewer* meetings, perhaps one at the beginning and one at the end of the semester. You will have more meetings with your chair than your reader.  Establish the following:
+The committee will be most successful when students establish clear expectations for meeting with their committee members.  Clearly established expectations will prevent students from emailing *too little* or *too much*.  It is best to suggest *fewer* meetings at first, perhaps one at the beginning and one at the end of the semester. You will have more meetings with your chair than your reader.  Establish the following:
   
   * Make a clear statement that you are respectful of their time and do not want to meet too much or too little.  Faculty often appreciate such direct and respectful statements. 
   
