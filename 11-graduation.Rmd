@@ -1,6 +1,6 @@
 # Guidelines and Procedures
 
-Successful completion of the thesis requires students to remain in good standing in accordance with the the guidelines regarding academic success and integrity set forth in the university’s Graduate Catalog and the MS Clinical Psychology Handbook.
+Successful completion of the thesis requires students to remain in good standing in accordance with the the guidelines regarding academic success and integrity set forth in the university’s Graduate Catalog and the MS Clinical Psychology Student Handbook.
 
 ___
 
