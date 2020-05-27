@@ -76,61 +76,6 @@ In addition to organizing students' workflow, OSF allows students to showcase th
 
 ___
 
-
-## Literature Review Timeline {#litreview}
-
-___
-
-**Understanding the Problem**
-
-The development of the literature review begins during the Fall Semester of the first year during PSYC 564 Advanced Research Methods.  The literature review will become the "introduction" section of the final thesis paper.  The literature review demonstrates the student's mastery of the literature surrounding the *problem* to be addressed by the thesis.  Initial drafts, such as that from PSYC 564, are 10-12 pages in length.  
-
-The development of the literature review is, however, ongoing throughout the two-years of the program until the final draft is submitted on May 1st of the second year. The typical length of a *completed* introduction section is between **20-40 pages** long but there is no maximum length. 
-
-In terms of content, students are encouraged to consider multiple perspectives in their work and also to integrate their thoughts related to culture and diversity regarding the topic area.  The idea here is that a good understanding of a problem area involves a thorough understanding of the context.  Context includes a consideration of the place, time, and people under study as well as the same characteristics of those who are doing the investigating.  
-
-**Due**: 
-  
-  1. December 15th, first year (First Major Draft);
-  2. May 15th, end of first year (Second Major Draft with Hypotheses); 
-  3. May 1st, end of second year (Final Draft).
-
-___
-
-
-## Method Section Timeline {#method}
-
-___
-
-**Solving the Problem**
-
-The method sections defines the procedures of the thesis. The method section consists of the participant selection, selection of methods of measurements or materials, the procedure, and the data analytic method. The method section can be worked on in *PSYC 552 Psychometrics* and *PSYC 562 Statistics II: Regression* during the Spring Semester of the first year.  The method section is finalized during *PSYC 565 Research Practicum* in the Fall Semester of the second year when students prepare their submission to the [CLU IRB](https://www.callutheran.edu/research/irb/).
-
-Students at CLU also pre-registered their hypotheses using [AS Predicted](https://aspredicted.org/).  A pre-registration is method of distinguishing between exploratory and confirmatory hypotheses.  The concept of pre-registration is discussed during _PSYC 521 Clinical and Research Ethics_ during the Summer Semester. 
-
-Lastly, the method section should include a **power analysis.**  The primary purpose of the power analysis is to provide students with the best understanding of the size of the sample needed to successfully test their hypothesis(-es).   In other words, students should never have to say in their discussion "The study was limited due to a small sample size.  Future research should include a larger sample size."  When authors make this statement they are basically stating that they ran a pointless study.  If the study is _under-powered_ then the truth cannot be adequately discerned from the outset.  If the study finds significance, then it might be a false positive; if a study does not find significance then the authors say they likely would have if they had enough people.  In each of these instances there is no credible chance to fail and, meaningfully, advance science.
-
-The power analysis should be calculated during the Summer Semester between year 1 and year 2 or during *PSYC 565 Research Practicum* in the Fall Semester of the second year.  A power analysis ***must be completed prior*** to IRB submission. 
-
-**Video Resources:**
-
-1. A conceptual overview of a power analysis can be found [here](https://www.youtube.com/watch?v=Lr-i4Ugoc5M).  If you like that professor, here is another video by him that I like on his personal [website](https://www.youtube.com/watch?v=XhfkodpyIsw)
-
-2. An overview of power can also be found here through the Center for Open Science.
-     
-      [Part 1: What is Statisical Power](https://www.youtube.com/watch?v=-ZU7fbvSJ60)
-      
-      [Part 2: Consequences of low power](https://www.youtube.com/watch?v=7daQRvRO-NE) 
-    
-3. An article on the topic can found in [10 Resources](#resources).
-
-**Due**: 
-
-  1. May 1st, first year (First Draft);
-  2. December 15th, second year (Second Draft including power analysis)
-
-___
-
 ## Committee Assignment
 
 ___
@@ -149,8 +94,55 @@ The reader must have either content knowledge or expert *methodological knowledg
 
 ___
 
-Please see [Section 4 Thesis Committee](#people) of this handbook for information on how to acquire a committee. 
+### Finding a Committee
+
+For many faculty, being on a thesis committee is a lot of work and they are often reluctant to agree to help students. Consequently, how students choose to approach faculty is very critical. Please consider these guidelines and talk to Dr. Bedics prior to reaching out to potential committee members.   
+
+___
+
+**1. Identifying Potential Faculty**
+
+Search the CLU website for potential faculty that could contribute to your idea.  Look at faculty interests in graduate psychology, undergraduate psychology, as well as other departments at CLU.  Students could also identify faculty at other universities that might serve on the committee.  Once identified, students should email Dr. Bedics to discuss.
+
+___
+
+**2.	Foot-in-the-Door** 
+
+Students first introduce themselves to faculty through email.  **Do not ask them to join your committee** in the first email.  Instead, ask them if they have time to answer questions about your project. If they don't have time or incentive to do this then they will not be willing to be on your committee. The foot-in-the-door strategy also allows students to get feedback from the person even if they are not willing to be on students' committee.  
+
+Here is a properly formatted and professional email using the foot-in-the-door strategy:
+
+
+Dear Dr. ###,
+
+My name is <STUDENT> and I am currently developing my master’s thesis project at California Lutheran University in the MS Clinical Psychology Program.  The topic is <TOPIC>. I think your expertise in <AREA> would help me in thinking through some of the details of the thesis.  I was curious if you could make time to answer a few questions over email or perhaps even chat over the phone or during your office hours?  I have attached a brief summary of my project.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+First Name Last Name
+
+
+If they reply, and are positive, then you it is your responsibility to be flexible with *your* time.  Also, please never ask for an appointment in the same week.  
+
+___
+
+**3.	Requesting Committee Membership** – If the initial meeting goes well then Dr. Bedics will email the faculty member to discuss the role of the Chair and Reader.  
+
+___
+
+**4. Working with your committee**
+
+The committee will be most successful when students establish clear expectations for meeting with their committee members.  Clearly established expectations will prevent students from emailing *too little* or *too much*.  It is best to suggest *fewer* meetings at first, perhaps one at the beginning and one at the end of the semester. You will have more meetings with your chair than your reader.  Establish the following:
   
+  * Make a clear statement that you are respectful of their time and do not want to meet too much or too little.  Faculty often appreciate such direct and respectful statements. 
+  
+  * Suggest two meetings a semester and go from there.  They might suggest more or a timeline based upon other criteria.
+
+___
+
+ 
 **Due**: June 30th, Summer after First Year
 
 ___
