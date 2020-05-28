@@ -113,15 +113,15 @@ Students first introduce themselves to faculty through email.  **Do not ask them
 Here is a properly formatted and professional email using the foot-in-the-door strategy:
 
 
-Dear Dr. ###,
+_Dear Dr. ###,_
 
-My name is <STUDENT> and I am currently developing my master’s thesis project at California Lutheran University in the MS Clinical Psychology Program.  The topic is <TOPIC>. I think your expertise in <AREA> would help me in thinking through some of the details of the thesis.  I was curious if you could make time to answer a few questions over email or perhaps even chat over the phone or during your office hours?  I have attached a brief summary of my project.
+_My name is <STUDENT> and I am currently developing my master’s thesis project at California Lutheran University in the MS Clinical Psychology Program.  The topic is <TOPIC>. I think your expertise in <AREA> would help me in thinking through some of the details of the thesis.  I was curious if you could make time to answer a few questions over email or perhaps even chat over the phone or during your office hours?  I have attached a brief summary of my project._
 
-Thank you for your time and consideration.
+_Thank you for your time and consideration._
 
-Sincerely,
+_Sincerely,_
 
-First Name Last Name
+_First Name Last Name_
 
 
 If they reply, and are positive, then you it is your responsibility to be flexible with *your* time.  Also, please never ask for an appointment in the same week.  
