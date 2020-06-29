@@ -16,17 +16,18 @@ Students who wish to pursue the thesis option are required to meet with Dr. Bedi
 |8.| Committee Assignment | June 30th | Summer | [__] Chair<br/>[__] Reader |
 |9.| Academic Good Standing | July 3rd | Summer | [_____]  |
 |10.| Enroll in PSYC 565 | August 1st | Second Year | [_____]  |
-|11.| Committee Approval of Proposal | September 1st  | Second Year | [_____] |
-|12.| IRB Submitted | November 1st | Second Year | [_____] |
-|13.| Academic Good Standing | December 15th | Second Year | [_____]  |
-|14.| Enroll in PSYC 566 | December 15th | Second Year | [_____]  |
-|15.| Complete Draft to Dr. Bedics | May 1st  | Second Year | [_____] |
-|16.| Committee Approval of Final | May 10th  | Second Year |  [__] Chair<br/>[__] Reader |
-|17.| OSF Approval | May 1st | Second Year  | [_____]  |
-|18. | Thesis Commons | May 15th | Second Year | [_____]  |
-|19. | Thesis Binding | Optional | Second Year | [_____]  |
-|20.| GitHub Blog | Optional |Second Year | [_____]  |
-|21.| Shiny App | Optional |Second Year | [_____]  |
+|11.| Complete Pre-Registration | October 1st | Second Year | [_____]  |
+|12.| Committee Approval of Proposal | September 1st  | Second Year | [_____] |
+|13.| IRB Submitted | November 1st | Second Year | [_____] |
+|14.| Academic Good Standing | December 15th | Second Year | [_____]  |
+|15.| Enroll in PSYC 566 | December 15th | Second Year | [_____]  |
+|16.| Dr. Bedics approval of Final | May 1st  | Second Year | [_____] |
+|17.| Committee Approval of Final | May 10th  | Second Year |  [__] Chair<br/>[__] Reader |
+|18.| Final OSF Approval | May 1st | Second Year  | [_____]  |
+|19. | Thesis Commons | Summer (Required) | Second Year | [_____]  |
+|20. | Thesis Binding | Optional | Second Year | [_____]  |
+|21.| GitHub Blog | Optional |Second Year | [_____]  |
+|22.| Shiny App | Optional |Second Year | [_____]  |
 
 
 ## Thesis Topic Selection

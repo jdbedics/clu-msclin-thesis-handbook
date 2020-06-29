@@ -1,42 +1,55 @@
-\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
 %
-\documentclass[openany]{book}
+\documentclass[
+  openany]{book}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provides euro and other symbols
-\else % if luatex or xelatex
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
   \usepackage{unicode-math}
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 \fi
-% use upquote if available, for straight quotes in verbatim environments
+% Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage[]{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
-\usepackage{hyperref}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-            pdftitle={CLU MS Clinical Psychology Thesis Handbook},
-            pdfauthor={Jamie Bedics, PhD, ABPP, Program Director},
-            pdfborder={0 0 0},
-            breaklinks=true}
-\urlstyle{same}  % don't use monospace font for urls
+  pdftitle={CLU MS Clinical Psychology Thesis Handbook},
+  pdfauthor={Jamie Bedics, PhD, ABPP, Program Director},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs}
-% Fix footnotes in tables (requires footnote package)
-\IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{longtable}}{}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
 \usepackage{graphicx,grffile}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -46,25 +59,14 @@
 % margins by default, and it is still possible to overwrite the defaults
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{5}
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
-
-% set default figure placement to htbp
+% Set default figure placement to htbp
 \makeatletter
 \def\fps@figure{htbp}
 \makeatother
-
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
 \usepackage{booktabs}
 \usepackage{amsthm}
 \makeatletter
@@ -78,7 +80,7 @@
 
 \title{CLU MS Clinical Psychology Thesis Handbook}
 \author{Jamie Bedics, PhD, ABPP, Program Director}
-\date{2020-05-27}
+\date{2020-06-28}
 
 \begin{document}
 \maketitle
@@ -311,17 +313,18 @@ Students who wish to pursue the thesis option are required to meet with Dr.~Bedi
 8. & Committee Assignment & June 30th & Summer & {[}\_\_{]} Chair{[}\_\_{]} Reader\tabularnewline
 9. & Academic Good Standing & July 3rd & Summer & {[}\_\_\_\_\_{]}\tabularnewline
 10. & Enroll in PSYC 565 & August 1st & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
-11. & Committee Approval of Proposal & September 1st & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
-12. & IRB Submitted & November 1st & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
-13. & Academic Good Standing & December 15th & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
-14. & Enroll in PSYC 566 & December 15th & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
-15. & Complete Draft to Dr.~Bedics & May 1st & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
-16. & Committee Approval of Final & May 10th & Second Year & {[}\_\_{]} Chair{[}\_\_{]} Reader\tabularnewline
-17. & OSF Approval & May 1st & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
-18. & Thesis Commons & May 15th & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
-19. & Thesis Binding & Optional & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
-20. & GitHub Blog & Optional & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
-21. & Shiny App & Optional & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
+11. & Complete Pre-Registration & October 1st & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
+12. & Committee Approval of Proposal & September 1st & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
+13. & IRB Submitted & November 1st & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
+14. & Academic Good Standing & December 15th & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
+15. & Enroll in PSYC 566 & December 15th & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
+16. & Dr.~Bedics approval of Final & May 1st & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
+17. & Committee Approval of Final & May 10th & Second Year & {[}\_\_{]} Chair{[}\_\_{]} Reader\tabularnewline
+18. & Final OSF Approval & May 1st & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
+19. & Thesis Commons & Summer (Required) & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
+20. & Thesis Binding & Optional & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
+21. & GitHub Blog & Optional & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
+22. & Shiny App & Optional & Second Year & {[}\_\_\_\_\_{]}\tabularnewline
 \bottomrule
 \end{longtable}
 
@@ -411,7 +414,7 @@ Students first introduce themselves to faculty through email. \textbf{Do not ask
 
 Here is a properly formatted and professional email using the foot-in-the-door strategy:
 
-\emph{Dear Dr. \#\#\#,}
+\emph{Dear Dr.~\#\#\#,}
 
 \emph{My name is and I am currently developing my master's thesis project at California Lutheran University in the MS Clinical Psychology Program. The topic is . I think your expertise in would help me in thinking through some of the details of the thesis. I was curious if you could make time to answer a few questions over email or perhaps even chat over the phone or during your office hours? I have attached a brief summary of my project.}
 
@@ -932,8 +935,8 @@ Faculty can also recommend various conferences given students area of interest (
 
 Please remember to contact your chair \emph{prior} to submitting your work to any professional outlet. Your committee members will typically be authors on all of your publicly published work.
 
-\hypertarget{guidelines-and-procedures}{%
-\chapter{Guidelines and Procedures}\label{guidelines-and-procedures}}
+\hypertarget{general-guidelines}{%
+\chapter{General Guidelines}\label{general-guidelines}}
 
 Successful completion of the thesis requires students to remain in good standing in accordance with the the guidelines regarding academic success and integrity set forth in the university's Graduate Catalog and the MS Clinical Psychology Student Handbook.
 
@@ -983,6 +986,23 @@ Power Analysis Resources:
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\bibliography{book.bib,packages.bib}
+Preregistration:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \href{https://www.cos.io/our-services/prereg}{Preregistration Overview}
+\item
+  \href{http://datacolada.org/64}{Data Colada Guide}
+\item
+  \href{https://www.pnas.org/content/115/11/2600}{The Preregistration Revolution}
+\item
+  \href{https://github.com/crsh/prereg\#prereg-r-markdown-templates-for-preregistrations-of-scientific-studies}{R Markdown Packages}
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+  \bibliography{book.bib,packages.bib}
 
 \end{document}

@@ -21,3 +21,11 @@ Power Analysis Resources:
 
 ___
 
+Preregistration:
+
+1. [Preregistration Overview](https://www.cos.io/our-services/prereg)
+2. [Data Colada Guide](http://datacolada.org/64)
+3. [The Preregistration Revolution](https://www.pnas.org/content/115/11/2600)
+4. [R Markdown Packages](https://github.com/crsh/prereg#prereg-r-markdown-templates-for-preregistrations-of-scientific-studies)
+
+___
