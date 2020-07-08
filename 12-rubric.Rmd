@@ -18,6 +18,7 @@
 | **Hypotheses Format** | Hypotheses are listed at the end of the introduction and are made in declarative statements making a specific prediction | Hypotheses are declarative predictions with acceptable clarity  | Hypotheses are not declarative predictions and/or are not clearly stated |
 | **Hypothesis Validity** | The hypothesis(-es) made are clearly supported by the literature review | Hypotheses are adequately supported by the literature review | Hypotheses are not clearly supported by the literature review |
 | **APA Style** |  Follows APA Style (7th) perfectly |  1-2 APA Style errors| More than three style errors | 
+| **Turn-it-In: Plagiarism and Paraphrasing** |  Student exhibited exceptional ability to paraphrase, include citations, and had a Turn-It-In score that was within expectations |  Student's ability to paraphrase was adequate with no concerns related to plagiarism including a Turn-It-In score within expectations | Student demonstrated difficulty paraphrasing and copied material directly from other sources | 
 
 
 |   Method         | Outstanding (3) | Acceptable (2) | Unacceptable (1) |
