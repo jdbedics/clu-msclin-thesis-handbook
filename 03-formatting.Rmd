@@ -86,15 +86,16 @@ ___
 
 The development of the literature review begins during the Fall Semester of the first year during PSYC 564 Advanced Research Methods.  The literature review will become the "introduction" section of the final thesis paper.  The literature review demonstrates the student's mastery of the literature surrounding the *problem* to be addressed by the thesis.  Initial drafts, such as that from PSYC 564, are 10-12 pages in length.  
 
-The development of the literature review is, however, ongoing throughout the two-years of the program until the final draft is submitted on May 1st of the second year. The typical length of a *completed* introduction section is between **20-40 pages** long but there is no maximum length. 
+The development of the literature review is, however, ongoing throughout the two-years of the program until the final draft is submitted on May 1st of the second year. The typical length of a *completed* introduction section is maximum **10 pages** long although exceptions can be made to go over the maximum. 
 
 In terms of content, students are encouraged to consider multiple perspectives in their work and also to integrate their thoughts related to culture and diversity regarding the topic area.  The idea here is that a good understanding of a problem area involves a thorough understanding of the context.  Context includes a consideration of the place, time, and people under study as well as the same characteristics of those who are doing the investigating.  
 
 **Due**: 
   
-  1. December 15th, first year (First Major Draft);
-  2. May 15th, end of first year (Second Major Draft with Hypotheses); 
-  3. May 1st, end of second year (Final Draft).
+  1. PSYC 564 Literature Review (December 15th of First Year)
+  2. Summer Revision of Literature Review (May 15th of First Year)  
+  3. PSYC 565 First Draft of Proposal (December 15th of Second Year)
+  3. PSYC 566 Final Draft to Committee and Program Director (May 1st)
   
 ___
 
@@ -102,41 +103,10 @@ ___
 ## Method (APA style)
 
 
-**Solving the Problem**
-
-The method sections defines the procedures of the thesis. The method section consists of the participant selection, selection of methods of measurements or materials, the procedure, and the data analytic method. The method section can be worked on in *PSYC 552 Psychometrics* and *PSYC 562 Statistics II: Regression* during the Spring Semester of the first year.  The method section is finalized during *PSYC 565 Research Practicum* in the Fall Semester of the second year when students prepare their submission to the [CLU IRB](https://www.callutheran.edu/research/irb/).
-
-Students at CLU also pre-registered their hypotheses using [AS Predicted](https://aspredicted.org/).  A pre-registration is method of distinguishing between exploratory and confirmatory hypotheses.  The concept of pre-registration is discussed during _PSYC 521 Clinical and Research Ethics_ during the Summer Semester. 
-
-Lastly, the method section should include a **power analysis.**  The primary purpose of the power analysis is to provide students with the best understanding of the size of the sample needed to successfully test their hypothesis(-es).   In other words, students should never have to say in their discussion "The study was limited due to a small sample size.  Future research should include a larger sample size."  When authors make this statement they are basically stating that they ran a pointless study.  If the study is _under-powered_ then the truth cannot be adequately discerned from the outset.  If the study finds significance, then it might be a false positive; if a study does not find significance then the authors say they likely would have if they had enough people.  In each of these instances there is no credible chance to fail and, meaningfully, advance science.
-
-The power analysis should be calculated during the Summer Semester between year 1 and year 2 or during *PSYC 565 Research Practicum* in the Fall Semester of the second year.  A power analysis ***must be completed prior*** to IRB submission. 
-
-**Video Resources:**
-
-1. A conceptual overview of a power analysis can be found [here](https://www.youtube.com/watch?v=Lr-i4Ugoc5M).  If you like that professor, here is another video by him that I like on his personal [website](https://www.youtube.com/watch?v=XhfkodpyIsw)
-
-2. An overview of power can also be found here through the Center for Open Science.
-     
-      [Part 1: What is Statisical Power](https://www.youtube.com/watch?v=-ZU7fbvSJ60)
-      
-      [Part 2: Consequences of low power](https://www.youtube.com/watch?v=7daQRvRO-NE) 
-    
-3. An article on the topic can found in [10 Resources](#resources).
-
 **Due**: 
 
-  1. May 1st, first year (First Draft);
-  2. December 15th, second year (Second Draft including power analysis)
-
-___
-
-
-## Data Analytic Method (APA style)
-
-The data analytic plan can be developed during _PSYC 562 Statistics II: Regression_ in the Spring Semester of the first year and finalized during _PSYC 565 Research Practicum_ in the Fall Semester of the second year.  
-
-At CLU, we exclusively use the statistical program language called [R](https://www.r-project.org/). The data analytic section will also include a [power analysis](#method) as well a link to the study's [pre-registration](https://aspredicted.org/) of the data analysis as noted in the [method section of this manual](#method). 
+  1. PSYC 565 First Draft (Dec 15th)
+  2. PSYC 566 Final Draft (May 1st)
 
 ___
 
